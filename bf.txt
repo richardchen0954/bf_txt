@@ -507,17 +507,25 @@ Uncritical Thinkers . . .
 
 Pretend they know more than they do, ignore their limitations, and assume their views are error-free.
 
-Regard problems and controversial issues as nuisances 
-
-or threats to their ego.
+Regard problems and controversial issues as nuisances or threats to their ego.
 
 Are impatient with complexity and thus would rather remain confused than make the effort to understand.
 
 Base judgments on first impressions and gut reactions.
 
-They are unconcerned 
+They are unconcerned about the amount or quality of evidence and cling to their views steadfastly.
 
-about the amount or quality of evidence and cling to their views steadfastly.
+Are interested in other people¡¯s ideas and so are willing to read and listen attentively, even when they tend to disagree with the other person.
+
+Recognize that extreme views (whether conservative or liberal) are seldom correct, so they avoid them, practice fairmindedness, and seek a balanced view.
+
+Practice restraint, controlling their feelings rather than being controlled by them, and thinking before acting.
+
+Are preoccupied with themselves and their own opinions and so are unwilling to pay attention to others¡¯ views. At the first sign of disagreement, they tend to think, ¡°How can I refute this?¡±
+
+Ignore the need for balance and give preference to views that support their established views.
+
+Tend to follow their feelings and act impulsively.
 
 As the desirable qualities suggest, critical thinking depends on mental discipline. Effective thinkers exert control over their mental life, direct their thoughts rather than being directed by them, and withhold their endorsement of any idea¡ªeven their own¡ªuntil they have tested and confirmed it. John Dewey equated this mental discipline with freedom.
 
@@ -533,31 +541,7 @@ that you would be partners for life. When a car salesman told you that the price
 
 Some important discoveries seem to have occurred instantaneously.
 
-For example, the German chemist Kekule found the solution to a difficult chemical problem intuitively. He was very tired when he slipped into a
-
-Are interested in other people¡¯s ideas and so are willing to read and listen attentively, even when they tend to disagree with the other person.
-
-Recognize that extreme views
-
-(whether conservative or 
-
-liberal) are seldom correct, 
-
-so they avoid them, practice fairmindedness, and seek 
-
-a balanced view.
-
-Practice restraint, controlling their feelings rather than being controlled by them, and thinking before acting.
-
-Are preoccupied with themselves and their own opinions and so are unwilling to pay attention to others¡¯ views. At the first sign of disagreement, they tend to think, ¡°How can 
-
-I refute this?¡±
-
-Ignore the need for balance and give preference to views that support their established views.
-
-Tend to follow their feelings and act impulsively.
-
- daydream. The image of a snake swallowing its tail came to him¡ªand that provided the clue to the structure of the benzene molecule, which is a ring, rather than a chain, of atoms.9 The German writer Goethe had been experiencing great difficulty organizing a large mass of material for one of his works when he learned of the tragic suicide of a close friend. At that very instant, the plan for organizing his material occurred to him in detail.10 The English writer Samuel Taylor Coleridge (you may have read his Rime of the Ancient Mariner in high school) awoke from a dream with 200¨C300 lines of a new and complex poem clearly in mind.
+For example, the German chemist Kekule found the solution to a difficult chemical problem intuitively. He was very tired when he slipped into a daydream. The image of a snake swallowing its tail came to him¡ªand that provided the clue to the structure of the benzene molecule, which is a ring, rather than a chain, of atoms.9 The German writer Goethe had been experiencing great difficulty organizing a large mass of material for one of his works when he learned of the tragic suicide of a close friend. At that very instant, the plan for organizing his material occurred to him in detail.10 The English writer Samuel Taylor Coleridge (you may have read his Rime of the Ancient Mariner in high school) awoke from a dream with 200¨C300 lines of a new and complex poem clearly in mind.
 
 Such examples seem to suggest that intuition is very different from reasoning and is not influenced by it. But before accepting that conclusion, consider these facts:
 
@@ -757,10 +741,6 @@ Our age has inherited the whole argument. The focus, however, has changed. It se
 
 Still, the question of truth, or even truths, remains, and the position we take toward this question does have an important bearing on how we conduct our thinking and acting. Unfortunately, there is a good deal of murkiness and confusion about the concept. The rest of this chapter will attempt to shed light on it.
 
-32
-
-CHAPTER 3 What Is Truth? 33
-
 It¡¯s fashionable today to believe that truth is relative and subjective.
 
 ¡°Everyone creates his or her own truth,¡± the saying goes, ¡°and what is true for you may not be true for me.¡± The meaning of this statement goes far beyond ¡°It¡¯s a free country and I can believe what I want.¡± The claim means that whatever a person thinks is true because he or she thinks it is. Not surprisingly, to challenge another person¡¯s view on an issue is considered bad form. ¡°That¡¯s my truth you¡¯re talking about, Buster. Show a little respect.¡±
@@ -795,7 +775,7 @@ At least a dozen times every weekend from September to January, the imperfection
 
 The vagaries of perception have long been noted by those who deal with human testimony¡ªnotably, trial lawyers, police officers, and psychologists. It is well established that a number of factors can make us see and hear inaccurately. Darkness, cloudy conditions, or distance from what we are witnessing may obscure our vision. We may be distracted at a crucial moment. If we are tired or in the grip of powerful emotions such as fear or anger, our normal perceptiveness may be significantly diminished.
 
-Also, perception may be intermingled with interpretation¡ªthe expectation that an event will unfold in a certain way may color our perception of the way the event actually unfolds. Loyalty and affection toward the people or things involved may distort our vision as well. If someone we dislike speaks in a loud voice and is animated, we may regard that person as CHAPTER 3 What Is Truth? 35 showing off to get attention. But if a friend behaves in the same way, we may regard him or her as vivacious and extroverted.
+Also, perception may be intermingled with interpretation¡ªthe expectation that an event will unfold in a certain way may color our perception of the way the event actually unfolds. Loyalty and affection toward the people or things involved may distort our vision as well. If someone we dislike speaks in a loud voice and is animated, we may regard that person as  showing off to get attention. But if a friend behaves in the same way, we may regard him or her as vivacious and extroverted.
 
 Imperfect Memory
 
@@ -833,7 +813,7 @@ the late Charlie Chaplin ever made. Then, in 1982, a previously
 
 unknown film was discovered in a British screen archive vault.6
 
-? For hundreds of years historians believed that although the people of Pompeii had been trapped by the eruption of Mount Vesuvius in A.D. 79, the people of neighboring Herculaneum had escaped. Then CHAPTER 3 What Is Truth? 37 the discovery of eighty bodies (and the hint of hundreds more)
+? For hundreds of years historians believed that although the people of Pompeii had been trapped by the eruption of Mount Vesuvius in A.D. 79, the people of neighboring Herculaneum had escaped. Then  the discovery of eighty bodies (and the hint of hundreds more)
 
 under the volcanic ash revealed that many from Herculaneum had also been trapped.7
 
@@ -879,7 +859,7 @@ Some of the most difficult challenges in discovering truth occur in
 
 determining cause-and-effect relationships. Unfortunately, mistakes are common in such matters. One mistake is to see cause-and-effect 
 
-CHAPTER 3 What Is Truth? 39 relationships where there are none. Another is to see only the simple and obvious cause-and-effect relationships and miss the complex or subtle ones. A third is to believe that causation is relevant only to material forces and is unrelated to human affairs. To avoid such confusion, four facts must be understood:
+ relationships where there are none. Another is to see only the simple and obvious cause-and-effect relationships and miss the complex or subtle ones. A third is to believe that causation is relevant only to material forces and is unrelated to human affairs. To avoid such confusion, four facts must be understood:
 
 1. One event can precede another without causing it. Some people believe that when one event precedes another, it must be the cause of the other. Most superstition is rooted in this notion. For example, breaking a mirror, crossing paths with a black cat, or walking under a ladder is believed to cause misfortune. You don¡¯t have to be superstitious to make this mistake. You may believe that your professor gave an unannounced quiz today because students were inattentive the day before yesterday, whereas he may have planned it at the beginning of the semester. Or you may believe the stock market fell because a new president took office, when other factors might have prompted the decline. 
 
@@ -911,23 +891,17 @@ The idea that self-esteem is prerequisite to success changed the traditional ide
 
 In each of these examples, one idea influenced the occurrence of an action or belief and, in that sense, caused it. Columnist George Will no doubt had this view of causation in mind when he encountered the claim that ¡°no one has ever dropped dead from viewing ¡®Natural Born Killers,¡¯ or listening to gangster rap records.¡± Will responded, ¡°No one ever dropped dead reading ¡®Der Sturmer,¡¯ the Nazi anti-Semitic newspaper, but the culture it served caused six million Jews to drop dead.¡±11 3. There is a wild card in human affairs¡ªfree will. So far we have noted that causation occurs through force or necessity in material events, but through influence in nonmaterial events¡ªthat is, in human affairs.
 
-Also, that in human affairs, effects are to some extent predictable but much less so than in material events. Now we need to consider why they are less predictable. The answer is because people possess free will¡ªthat is, the capacity to respond in ways that oppose even the strongest influences. Free will is itself a causative factor, and one that can trump all others. This explains why some people who grow up in the worst of circumstances¡ªfor example, in dysfunctional, abusive families or in CHAPTER 3 What Is Truth? 41 crime-ridden neighborhoods in which the main sources of income are drug dealing and prostitution¡ªresist all the negative influences and become decent, hardworking, and law-abiding. (It can also explain why some people who are more fortunate economically and socially fall short of those ideals.) 
+Also, that in human affairs, effects are to some extent predictable but much less so than in material events. Now we need to consider why they are less predictable. The answer is because people possess free will¡ªthat is, the capacity to respond in ways that oppose even the strongest influences. Free will is itself a causative factor, and one that can trump all others. This explains why some people who grow up in the worst of circumstances¡ªfor example, in dysfunctional, abusive families or in  crime-ridden neighborhoods in which the main sources of income are drug dealing and prostitution¡ªresist all the negative influences and become decent, hardworking, and law-abiding. (It can also explain why some people who are more fortunate economically and socially fall short of those ideals.) 
 
 It has been rightly said that people can seldom choose the circumstances life places them in, but they can always choose their responses to those circumstances because they possess free will. In any investigation of causes and effects in human affairs, the factor of free will must be considered. However, possessing free will is no guarantee that we will apply it.
 
-In fact, one factor makes such application difficult. That factor is habit. 
+In fact, one factor makes such application difficult. That factor is habit. Habit inclines smokers to continue smoking, liars to continue lying, selfish people to go on being selfish, and countless people to unthinkingly embrace the latest fashion. When leading designers say ¡°hemlines should be raised,¡± hordes of women comply. When oversized beltless denim jeans are in vogue, hordes of young men waddle down the street, the tops of their pants at the middle of their hips and the crotches of their pants touching their knees. When iconic athletes shave their heads, legions of fans shave theirs. Resisting the force of habit is always possible but never easy.
 
-Habit inclines smokers to continue smoking, liars to continue lying, selfish people to go on being selfish, and countless people to unthinkingly embrace the latest fashion. When leading designers say ¡°hemlines should be raised,¡± hordes of women comply. When oversized beltless denim jeans are in vogue, hordes of young men waddle down the street, the tops of their pants at the middle of their hips and the crotches of their pants touching their knees. When iconic athletes shave their heads, 
-
-legions of fans shave theirs. Resisting the force of habit is always possible but never easy.
-
-The most difficult habits to break are those that accrue incrementally over time. Consider the acceptance of increasing violence and sex on TV
-
-and in films. In the 1950s, not much violence and sex were shown onscreen, and what was shown was tame. Then viewers were given glimpses of blood and gore and brief peeks at naked flesh. Year by year, the number of such scenes increased and the camera drew in a little closer and lingered a little longer over them. Over time, one thematic taboo after another was broken. Eventually violence and sexuality were joined, and themes of rape, child molestation, and even cannibalism were introduced. More recently, the industry crafted a new vehicle for assaulting the senses¡ªthe forensics program, which depicts rape-murders as they happen, then presents every gory detail of the autopsies in extreme close-up, accompanied by frequent, graphic flashbacks to refresh in viewers¡¯ minds the shocking details of the crimes. 
+The most difficult habits to break are those that accrue incrementally over time. Consider the acceptance of increasing violence and sex on TV and in films. In the 1950s, not much violence and sex were shown onscreen, and what was shown was tame. Then viewers were given glimpses of blood and gore and brief peeks at naked flesh. Year by year, the number of such scenes increased and the camera drew in a little closer and lingered a little longer over them. Over time, one thematic taboo after another was broken. Eventually violence and sexuality were joined, and themes of rape, child molestation, and even cannibalism were introduced. More recently, the industry crafted a new vehicle for assaulting the senses¡ªthe forensics program, which depicts rape-murders as they happen, then presents every gory detail of the autopsies in extreme close-up, accompanied by frequent, graphic flashbacks to refresh in viewers¡¯ minds the shocking details of the crimes. 
 
 At first the violent and sexual content provoked protests. In time, however, as sensational images became familiar, people formed the habit of accepting them, and the protests diminished. (In time the habit grew so strong that anyone who objected to graphic sex and violence was considered odd.) What happened in this case was not that people lost their freedom or ability to protest, but instead that habit took away their inclination to protest.
 
-Causation is often complex. When a small pebble is dropped into a serene pool of water, it causes ripples in every direction, and those ripples can affect even distant waters. NASA researchers have found a similar process at work in the atmosphere: tiny particles in the air called aerosols can have a rippling effect on the climate thousands of miles away from their source region.
+4.Causation is often complex. When a small pebble is dropped into a serene pool of water, it causes ripples in every direction, and those ripples can affect even distant waters. NASA researchers have found a similar process at work in the atmosphere: tiny particles in the air called aerosols can have a rippling effect on the climate thousands of miles away from their source region.
 
 Effects in human affairs can also be complex. In an effort to cut costs, the owner of a chemical plant may dispose of chemicals in a nearby stream that flows into a river. This action may result in effects he did not intend, including the pollution of the river, the killing of fish, and even the contracting of cancer by people living far from his plant. Those effects will be no less real because he did not intend them.
 
@@ -943,11 +917,7 @@ These examples contain a valuable lesson about the need for care in investigatin
 
 ¡°root¡± cause.
 
-For example, it has been clear for some time that the number of people of Middle Eastern origin living in Europe has increased so dramatically that before long, according to some observers, Europe might well be called ¡°Eurabia.¡± What caused this change? Analysts found that for decades European companies, with their governments¡¯ blessing, have
-
-*At first consideration, it might seem that the front driver in each case caused the accident behind him/her. However, the law holds each driver responsible for maintaining sufficient distance to stop and avoid a crash.
-
-CHAPTER 3 What Is Truth? 43 been inviting foreigners to work in their countries, and these workers brought their families, formed their own enclaves, built their own mosques and churches, and ¡°planted¡± their own ethnic cultures. The next question is what caused the governments to approve this influx of workers? The answer is that the native population of European countries had declined to a point near or below ¡°replacement level¡± and there were too few native-born workers to fill the available jobs and thus fund older people¡¯s pensions and health care services. 
+For example, it has been clear for some time that the number of people of Middle Eastern origin living in Europe has increased so dramatically that before long, according to some observers, Europe might well be called ¡°Eurabia.¡± What caused this change? Analysts found that for decades European companies, with their governments¡¯ blessing, have been inviting foreigners to work in their countries, and these workers brought their families, formed their own enclaves, built their own mosques and churches, and ¡°planted¡± their own ethnic cultures. The next question is what caused the governments to approve this influx of workers? The answer is that the native population of European countries had declined to a point near or below ¡°replacement level¡± and there were too few native-born workers to fill the available jobs and thus fund older people¡¯s pensions and health care services. 
 
 What caused the population decline? The availability of effective birth control techniques in the 1960s and 1970s and the choice of more and more families to employ those techniques. What caused so many families to limit the number of their children? One factor was the century-long population movement from rural areas to cities, where children are an economic burden rather than an asset. Others were the growing emphasis on self-fulfillment and the corresponding tendency to regard child rearing as self-stifling.
 
@@ -967,7 +937,9 @@ Either of these conclusions has significantly more force than mere possibility, 
 
 In searching for truth, when you encounter possible cause-and-effect relationships, keep these cautions in mind.
 
-Applications 1. Think of a recent situation in which someone referred inappropriately to
+Applications
+
+ 1. Think of a recent situation in which someone referred inappropriately to
 
 ¡°my truth.¡± Write two or three paragraphs, in your own words, explaining to that person what you learned in this chapter.
 
@@ -991,7 +963,7 @@ was that Saturn¡¯s rings were composed of gas or dust. Then, in 1973, radar prob
 
 5. The scene is a campus security office, where two students are being questioned. A few minutes earlier, they were engaged in a fistfight in the cafeteria. The campus police ask them again and again how the fight started. The stories conflict. Because each student seems genuinely convinced that the other one was the aggressor and there were no witnesses, the campus police have no hope of discovering the truth. But is there a truth to discover? Or are there two truths, one for each student¡¯s story? What light does the chapter shed on these questions?
 
-6. A strange phenomenon that affects a tiny number of the world¡¯s inhabitants has interested psychologists for some time. It occurs during what Norwegians call the ¡°murky time,¡± the two months each year during which areas above the Arctic Circle experience almost unrelieved darkness. The effects on people have been discovered to be unfortunate, even dangerous. At worst, people experience severe tenseness, restlessness, fear, a preoccupation with thoughts of death and even suicide. At best, they experience an inability to concentrate, fatigue, a lack of enthusiasm for anything, suspicion, and jealousy. Part of the cause is seen as lack of sleep. Accustomed to day and night, people become confused by constant darkness.13 This phenomenon poses an interesting test of truth. Would it CHAPTER 3 What Is Truth? 45 be proper to say the phenomenon was true before it was recognized and acknowledged by psychologists? Or did it become true only when they became aware of it? And what of your relationship to the phenomenon? Before you became aware of it for the first time, whether reading it here or elsewhere, it was not ¡°true to you.¡± But did that make it any less true? Explain in light of this chapter.
+6. A strange phenomenon that affects a tiny number of the world¡¯s inhabitants has interested psychologists for some time. It occurs during what Norwegians call the ¡°murky time,¡± the two months each year during which areas above the Arctic Circle experience almost unrelieved darkness. The effects on people have been discovered to be unfortunate, even dangerous. At worst, people experience severe tenseness, restlessness, fear, a preoccupation with thoughts of death and even suicide. At best, they experience an inability to concentrate, fatigue, a lack of enthusiasm for anything, suspicion, and jealousy. Part of the cause is seen as lack of sleep. Accustomed to day and night, people become confused by constant darkness.13 This phenomenon poses an interesting test of truth. Would it  be proper to say the phenomenon was true before it was recognized and acknowledged by psychologists? Or did it become true only when they became aware of it? And what of your relationship to the phenomenon? Before you became aware of it for the first time, whether reading it here or elsewhere, it was not ¡°true to you.¡± But did that make it any less true? Explain in light of this chapter.
 
 7. Evaluate the following dialogues in light of what you learned in this chapter. If you lack sufficient knowledge to judge the issue, do some research.
 
@@ -1105,7 +1077,7 @@ Apparently, men who are responsible for caring for children or elderly parents d
 
 3. Conventional wisdom again is wrong. After reviewing the evidence about anger, Carol Tavris concludes, ¡°The psychological rationales for ventilating anger do not stand up under experimental scrutiny.
 
-The weight of the evidence indicates precisely the opposite: expressing anger makes you angrier, solidifies an angry attitude, and establishes CHAPTER 4 What Does It Mean to Know? 49 a hostile habit. If you keep quiet about momentary irritations and distract yourself with pleasant activity until your fury simmers down, chances are you will feel better, and feel better faster, than if you let yourself go in a shouting match.¡±3 4. Although the Puritans did hold that sex is rightly reserved for marriage, they did not hesitate to talk openly about the subject and were not prudish within marriage. The problem seems to be that people confuse the Puritans with the Victorians.4 5. This is pure myth. Few tribes were completely peaceful, and many not only were warlike but slaughtered women and children and tortured their captives. Some tribes also offered human sacrifices, murdered the elderly, and practiced cannibalism. As to their alleged harmonious respect for nature, many tribes deforested the land and wantonly killed whole herds of animals.5 6. Alfred Kinsey¡¯s work on human sexuality has been regarded as objective, scholarly, and definitive for more than half a century. In fact, it has become a foundation of psychotherapy, education, and even religion. Amazingly, in all that time no one read it critically until Judith A. Reisman and Edward W. Eichel did so. They document that Kinsey approached his work with a firm bias that significantly influenced his conclusions. He sought to establish that exclusive heterosexuality is abnormal and results merely from conditioning and inhibition; that sex between a man and a woman is no more natural than sex between two men, two women, a man and a child, or a man and an animal; and that bisexuality should be considered the norm for human sexuality. When Abraham Maslow demonstrated to Kinsey that his approach was unscientific, Kinsey simply ignored him. Kinsey went on to assert that incest can be satisfying and enriching and that children are upset by adult sexual advances solely because of the prudishness of parents and legal authorities.
+The weight of the evidence indicates precisely the opposite: expressing anger makes you angrier, solidifies an angry attitude, and establishes a hostile habit. If you keep quiet about momentary irritations and distract yourself with pleasant activity until your fury simmers down, chances are you will feel better, and feel better faster, than if you let yourself go in a shouting match.¡±3 4. Although the Puritans did hold that sex is rightly reserved for marriage, they did not hesitate to talk openly about the subject and were not prudish within marriage. The problem seems to be that people confuse the Puritans with the Victorians.4 5. This is pure myth. Few tribes were completely peaceful, and many not only were warlike but slaughtered women and children and tortured their captives. Some tribes also offered human sacrifices, murdered the elderly, and practiced cannibalism. As to their alleged harmonious respect for nature, many tribes deforested the land and wantonly killed whole herds of animals.5 6. Alfred Kinsey¡¯s work on human sexuality has been regarded as objective, scholarly, and definitive for more than half a century. In fact, it has become a foundation of psychotherapy, education, and even religion. Amazingly, in all that time no one read it critically until Judith A. Reisman and Edward W. Eichel did so. They document that Kinsey approached his work with a firm bias that significantly influenced his conclusions. He sought to establish that exclusive heterosexuality is abnormal and results merely from conditioning and inhibition; that sex between a man and a woman is no more natural than sex between two men, two women, a man and a child, or a man and an animal; and that bisexuality should be considered the norm for human sexuality. When Abraham Maslow demonstrated to Kinsey that his approach was unscientific, Kinsey simply ignored him. Kinsey went on to assert that incest can be satisfying and enriching and that children are upset by adult sexual advances solely because of the prudishness of parents and legal authorities.
 
 The authors also allege that in his research Kinsey employed a group of nine sex offenders to manually and orally stimulate to orgasm several hundred infants and children.6 7. The fact is that in many cases imported labor costs more money than domestic labor when the cost of transporting the workers is included in the calculation. For example, Indian workers were chosen over local Africans to build a railroad in East Africa. Similarly, Chinese workers were chosen over colonial Malayans. In both cases, the total cost of using imported workers was greater, but the cost per unit of work was lower because the imported workers produced more. In these and many other cases, the principal reason for choosing foreign over domestic labor is that the foreign workers are ¡°more diligent, reliable, skilled, or careful.¡±7 8. This notion is also mistaken. Slavery is thousands of years old, predating Islam, Buddhism, and Christianity. It was practiced by the Venetians, Greeks, Jews, Chinese, Indians, and Egyptians, among others. Native American tribes enslaved one another long before the time of Columbus. The distinction enjoyed by the Americas is not having introduced slavery, but having abolished it. Slavery was abolished in the Western Hemisphere many decades before it was in Africa, Asia, and the Middle East.8
 
@@ -1125,7 +1097,7 @@ We achieve knowledge passively by being told something by someone else. Most of 
 
 Unfortunately, passive learning has a serious defect. It makes us tend to accept uncritically what we are told even when what we are told is little more than hearsay and rumor.
 
-Did you ever play the game Rumor (or Telephone)? It begins when one person writes down a message but doesn¡¯t show it to anyone. Then the person whispers it, word for word, to another person. That person, in CHAPTER 4 What Does It Mean to Know? 51 turn, whispers it to still another, and so on, through all the people playing the game. The last person writes down the message word for word as he or she hears it. Then the two written statements are compared. Typically, the original message has changed, often dramatically, in passing from person to person.
+Did you ever play the game Rumor (or Telephone)? It begins when one person writes down a message but doesn¡¯t show it to anyone. Then the person whispers it, word for word, to another person. That person, in turn, whispers it to still another, and so on, through all the people playing the game. The last person writes down the message word for word as he or she hears it. Then the two written statements are compared. Typically, the original message has changed, often dramatically, in passing from person to person.
 
 That¡¯s what happens in daily life. No two words have precisely the same shades of meaning. Therefore, the simple fact that people repeat a story in their own words rather than in exact quotation changes the story.
 
@@ -1166,8 +1138,6 @@ The notion that when the youngest child leaves home, middle-aged parents, especi
 Similarly, until recently, most scientists accepted that senility is a result of the physical deterioration of the brain and is both progressive and irreversible. Then experimenters in an Alabama veterans¡¯ hospital found that in many cases the symptoms of senility¡ªconfusion, disorientation, and withdrawal from reality¡ªcan be halted and even reversed by
 
 ¡°a simple program of keeping the aged constantly in touch with the surrounding environment.¡±
-
-CHAPTER 4 What Does It Mean to Know? 53
 
 Books and articles referring to athletes¡¯ ¡°second wind¡± abound. Yet Nyles Humphrey and Robert Ruhling of the University of Utah have presented evidence that there really is no second wind and that the sensation experienced by many athletes is merely psychological.18
 
