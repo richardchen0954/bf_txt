@@ -1,3 +1,12 @@
+Beyond Feelings
+A Guide to Critical Thinking
+
+Vincent Ryan Ruggiero
+Professor Emeritus of Humanities
+State University of New York, Delhi
+
+To the memory of Howard Trumble, whose quiet practice of the skills detailed in this book was an inspiration to me, to his family, and to all who knew him.
+
 Preface
 
 When the first edition of this book appeared in 1975, the dominant intellectual focus was still subjectivity, feelings. That focus, the legacy of the 1960s, was originally a necessary reaction to the rationalism and behaviorism that preceded it. It declared, in effect: ※People are not robots. They are more than the sum total of their physiology. They have hopes, dreams, emotions. No two humans are alike〞each has a special perspective, a unique way of perceiving the world. And any view of humanity that ignores this subjective side is a distortion.§
@@ -30,9 +39,7 @@ Within the overall design, however, I have made a number of changes, most in res
 
 ? In Chapter 15, new examples of the value of observation have been added.
 
-? In Chapter 17, the subsection ※Evaluate your information sources§
-
-has been expanded.
+? In Chapter 17, the subsection ※Evaluate your information sources§has been expanded.
 
 ? A number of new ※Difference of Opinion§ exercises have been added.
 
@@ -96,15 +103,9 @@ America＊s schools have criticized the neglect of critical thinking, and a growi
 
 It is no exaggeration to say that critical thinking is one of the most important subjects you will study in college regardless of your academic major. The quality of your schoolwork, your efforts in your career, your contributions to community life, your conduct of personal affairs〞all will depend on your ability to solve problems and make decisions.
 
-The book has three main sections. The first, ※The Context,§ will help you understand such important concepts as individuality, critical thinking, truth, knowledge, opinion, evidence, and argument and overcome attitudes and ideas that obstruct critical thinking. The second section, ※The
+The book has three main sections. The first, ※The Context,§ will help you understand such important concepts as individuality, critical thinking, truth, knowledge, opinion, evidence, and argument and overcome attitudes and ideas that obstruct critical thinking. The second section, ※The Pitfalls,§ will teach you to recognize and avoid the most common errors in thinking. The third section, ※A Strategy,§ will help you acquire the various skills used in addressing problems and issues. This section includes tips on identifying and overcoming your personal intellectual weaknesses as well as techniques for becoming more observant, clarifying issues, conducting inquiries, evaluating evidence, analyzing other people＊s views, and making sound judgments.
 
-Pitfalls,§ will teach you to recognize and avoid the most common errors in thinking. The third section, ※A Strategy,§ will help you acquire the various skills used in addressing problems and issues. This section includes tips on identifying and overcoming your personal intellectual weaknesses as well as techniques for becoming more observant, clarifying issues, conducting inquiries, evaluating evidence, analyzing other people＊s views, and making sound judgments.
-
-At the end of each chapter, you will find a number of applications to challenge your critical thinking and help you exercise your skills. These 1
-
-2 INTRODUCTION
-
-applications cover problems and issues both timely and timeless. The final application in each of the first thirteen chapters invites you to examine an especially important issue about which informed opinion is divided.
+At the end of each chapter, you will find a number of applications to challenge your critical thinking and help you exercise your skills. These applications cover problems and issues both timely and timeless. The final application in each of the first thirteen chapters invites you to examine an especially important issue about which informed opinion is divided.
 
 Students sometimes get the idea that a textbook must be read page by page and that reading ahead violates some unwritten rule. This notion is mistaken. Students＊ background knowledge varies widely; what one student knows very well, another knows only vaguely and a third is totally unfamiliar with. Any time you need or want to look ahead to an explanation in a later chapter, by all means do so. Let＊s say you make a statement and a friend says, ※That＊s relativism, pure and simple.§ If you aren＊t sure exactly what she means, go to the index, look up ※relativism,§ proceed to the appropriate page, and find out.
 
@@ -120,7 +121,7 @@ This first section explores seven important concepts〞individuality, critical th
 
 Third, the more thorough your knowledge of these concepts, the more proficient you will be in your thinking.
 
-3 CHAPTER 1
+CHAPTER 1
 
 Who Are You?
 
@@ -1081,9 +1082,7 @@ The weight of the evidence indicates precisely the opposite: expressing anger ma
 
 The authors also allege that in his research Kinsey employed a group of nine sex offenders to manually and orally stimulate to orgasm several hundred infants and children.6 7. The fact is that in many cases imported labor costs more money than domestic labor when the cost of transporting the workers is included in the calculation. For example, Indian workers were chosen over local Africans to build a railroad in East Africa. Similarly, Chinese workers were chosen over colonial Malayans. In both cases, the total cost of using imported workers was greater, but the cost per unit of work was lower because the imported workers produced more. In these and many other cases, the principal reason for choosing foreign over domestic labor is that the foreign workers are ※more diligent, reliable, skilled, or careful.§7 8. This notion is also mistaken. Slavery is thousands of years old, predating Islam, Buddhism, and Christianity. It was practiced by the Venetians, Greeks, Jews, Chinese, Indians, and Egyptians, among others. Native American tribes enslaved one another long before the time of Columbus. The distinction enjoyed by the Americas is not having introduced slavery, but having abolished it. Slavery was abolished in the Western Hemisphere many decades before it was in Africa, Asia, and the Middle East.8
 
-The more of the eight items you ※knew,§ and the surer you were of your
-
-※knowledge,§ the more troubling you are likely to find these facts. You may, in fact, be thinking, ※Wait a minute, there must be some mistake. Who are these people Ruggiero is quoting? Are they genuine scholars? I＊m skeptical of the whole lot of them.§ This reaction is understandable, because familiarity with a false statement can make it seem true. Yet it is a reaction critical thinkers keep on a short leash. The ancient Greek philosopher Epictetus＊s warning is relevant: ※Get rid of self-conceit. For it is impossible for anyone to begin to learn that which he thinks he already knows.§
+The more of the eight items you ※knew,§ and the surer you were of your ※knowledge,§ the more troubling you are likely to find these facts. You may, in fact, be thinking, ※Wait a minute, there must be some mistake. Who are these people Ruggiero is quoting? Are they genuine scholars? I＊m skeptical of the whole lot of them.§ This reaction is understandable, because familiarity with a false statement can make it seem true. Yet it is a reaction critical thinkers keep on a short leash. The ancient Greek philosopher Epictetus＊s warning is relevant: ※Get rid of self-conceit. For it is impossible for anyone to begin to learn that which he thinks he already knows.§
 
 Are you still troubled by our debunking of the conventional wisdom?
 
@@ -1179,11 +1178,7 @@ Guessing is offering a judgment on a hunch or taking a chance on an answer witho
 
 However, the test showed that when the samples were not labeled, not one student could identify a single brand.23
 
-Because assuming stifles curiosity and guessing denies the importance of evidence, neither is likely to lead to knowledge. The most reliable
-
-*It is, of course, possible to raise assumptions to the conscious level and express them. Most scientific references to assumptions are made in this context.
-
- approach is to be cautious in asserting that you know something. Be conservative in your level of assertion〞whenever you are less than certain, speak about possibilities and probabilities. Say, ※I think§ or ※It seems to me§ rather than ※I know.§ Most important, be honest with yourself and others about your ignorance. To admit you don＊t know something shows good sense, restraint, and intellectual honesty. These are not weaknesses but strengths. The admission of ignorance is the essential first step toward knowledge.
+Because assuming stifles curiosity and guessing denies the importance of evidence, neither is likely to lead to knowledge. The most reliable approach is to be cautious in asserting that you know something. Be conservative in your level of assertion〞whenever you are less than certain, speak about possibilities and probabilities. Say, ※I think§ or ※It seems to me§ rather than ※I know.§ Most important, be honest with yourself and others about your ignorance. To admit you don＊t know something shows good sense, restraint, and intellectual honesty. These are not weaknesses but strengths. The admission of ignorance is the essential first step toward knowledge.
 
 Does this mean you should be wishy-washy and hedge everything you say with maybes and perhapses? Does it mean that to be a critical thinker you must forsake convictions? The answer to both questions is an emphatic no! It means only that you should value firm, bold statements so much that you reserve them for occasions when the evidence permits.
 
@@ -1193,9 +1188,7 @@ Applications 1. Consider this statement by Greek philosopher Epictetus: ※Appear
 
 Explain.
 
-2. Read the following comment by Bernard Goldberg, a journalist and 
-
-author of Bias: ※Here＊s one of those dirty little secrets journalists are never supposed to reveal to the regular folks out there in the audience: a reporter can find an expert to say anything the reporter wants〞anything! Just keep on calling until one of the experts says what you need him to say and tell him you＊ll be right down with a camera crew to interview him. If you find an expert who says, ＆You know, I think that flat tax just might work and here＊s why . . .＊ you thank him, hang up, and find another expert. It＊s how journalists sneak their own personal views into stories in the guise of objective news reporting.§24 What implications does this statement have for the subject of this chapter? Explain your answer.
+2. Read the following comment by Bernard Goldberg, a journalist and author of Bias: ※Here＊s one of those dirty little secrets journalists are never supposed to reveal to the regular folks out there in the audience: a reporter can find an expert to say anything the reporter wants〞anything! Just keep on calling until one of the experts says what you need him to say and tell him you＊ll be right down with a camera crew to interview him. If you find an expert who says, ＆You know, I think that flat tax just might work and here＊s why . . .＊ you thank him, hang up, and find another expert. It＊s how journalists sneak their own personal views into stories in the guise of objective news reporting.§24 What implications does this statement have for the subject of this chapter? Explain your answer.
 
 3. In each of the following cases, someone believes he or she knows something. In light of what you learned in this chapter, discuss whether the person really does.
 
@@ -1217,9 +1210,7 @@ c. Jane: I just read there＊s some evidence that aspirin can prevent heart attac
 
 Jenny: That＊s a lot of nonsense. I know it can＊t. My uncle took lots of aspirin and he died of a heart attack last year.
 
-4. ※Man Is Released in Wrong Rape Charges,§ ※Traditional Idea Debunked,§
-
-※Ex-Aide Admits Lying About Lawmakers§〞daily newspapers contain numerous stories like these, stories showing how what was ※known§ a week, a month, or years ago has been found to be false. Find at least three examples of such stories in current or recent newspapers.
+4. ※Man Is Released in Wrong Rape Charges,§ ※Traditional Idea Debunked,§ ※Ex-Aide Admits Lying About Lawmakers§〞daily newspapers contain numerous stories like these, stories showing how what was ※known§ a week, a month, or years ago has been found to be false. Find at least three examples of such stories in current or recent newspapers.
 
 5. ※It ain＊t what a man doesn＊t know that makes him a fool, but what he does know that ain＊t so,§ wrote Josh Billings, a nineteenth-century American humorist. Recall as many occasions as you can in which your own experience confirmed his observation.
 
@@ -1260,9 +1251,7 @@ Begin your analysis by conducting a Google search using the term ※controversy g
 
 CHAPTER 5
 
-How Good Are 
-
-Your Opinions?
+How Good Are Your Opinions?
 
 To me truth is precious. . . . I should rather be right and stand alone than to run with the multitude and be wrong. . . . The holding of the views herein set forth has already won for me the scorn and contempt and ridicule of some of my fellow men. I am looked upon as being odd, strange, peculiar. . . . But truth is truth and though all the world reject 
 
@@ -1414,9 +1403,7 @@ Can whales communicate with one another? If so, how far can they transmit messag
 
 Similar examples could be cited from every field of knowledge〞from antique collecting to ethics, from art to criminology. All would support the same view: that by examining the opinions of informed people before making up our minds, we broaden our perspective, see details we might not see by ourselves, consider facts we would otherwise be unaware of, and lessen our chances of error. (It is foolish to look for guarantees of correctness〞 there are none.) No one can know everything about everything; there is simply not enough time to learn. Consulting those who have given their special attention to the field of knowledge in question is therefore a mark not of dependence or irresponsibility but of efficiency and good sense.
 
-To be considered informed, an opinion must be based on something more substantial than its familiarity to us or the length of time we have 
-
- held it or our presumed right to think whatever we wish. It must be based on careful consideration of the evidence. And when we express an opinion in formal speaking or writing, we should support it adequately. Authors Ray Marshall and Marc Tucker, for example, assert that the reason teaching in the United States has not been a highly respected profession is that most schoolteachers traditionally have been women. To support this contention, they trace the relevant historical development, citing administrative directives and statements of philosophy, presenting hiring patterns (from 59 percent women in 1870 to 86 percent in 1920), detailing significant shifts in curricula, contrasting male and female salary statistics, and demonstrating the relative powerlessness of women to negotiate professional-level salaries and working conditions.17
+To be considered informed, an opinion must be based on something more substantial than its familiarity to us or the length of time we have  held it or our presumed right to think whatever we wish. It must be based on careful consideration of the evidence. And when we express an opinion in formal speaking or writing, we should support it adequately. Authors Ray Marshall and Marc Tucker, for example, assert that the reason teaching in the United States has not been a highly respected profession is that most schoolteachers traditionally have been women. To support this contention, they trace the relevant historical development, citing administrative directives and statements of philosophy, presenting hiring patterns (from 59 percent women in 1870 to 86 percent in 1920), detailing significant shifts in curricula, contrasting male and female salary statistics, and demonstrating the relative powerlessness of women to negotiate professional-level salaries and working conditions.17
 
 As this example illustrates, in most responsible expressions of opinion, the statement of opinion takes up only a sentence or two, while the supporting details fill paragraphs, pages, and even entire chapters. Keep this in mind when writing your analytic papers.
 
@@ -1449,15 +1436,7 @@ Investigate the issue
 Consider alternative opinions
 
 Decide which opinion is most reasonable 
-2. Resist the temptation to treat your opinions as facts. This temptation can be powerful. Once you＊ve formed an opinion, it is natural to bond with it, much as a parent bonds with a baby. The more you call your opinion to mind and express it to others, the stronger the bond 
-
-becomes. To question its legitimacy soon becomes unthinkable.
-
-Nevertheless, you can be sure that some of your opinions have been uncritically formed and therefore need to be challenged. The problem is that you can＊t be sure which ones those are. The prudent 
-
-approach is to question any opinion, even a cherished one, the 
-
-moment evidence arises that suggests it is based on habit, impulse, whim, personal preference, or the influence of fashionable ideas rather than reality.
+2. Resist the temptation to treat your opinions as facts. This temptation can be powerful. Once you＊ve formed an opinion, it is natural to bond with it, much as a parent bonds with a baby. The more you call your opinion to mind and express it to others, the stronger the bond becomes. To question its legitimacy soon becomes unthinkable. Nevertheless, you can be sure that some of your opinions have been uncritically formed and therefore need to be challenged. The problem is that you can＊t be sure which ones those are. The prudent approach is to question any opinion, even a cherished one, the moment evidence arises that suggests it is based on habit, impulse, whim, personal preference, or the influence of fashionable ideas rather than reality.
 
 3. Monitor your thoughts to prevent the uncritical default mode from taking charge. Whenever you begin forming impressions of a person, place, or situation, follow the advice of the ancient Greek philosopher Epictetus: ※Be not swept off your feet by the vividness of the impression, but say, ＆Impression, wait for me a little. Let me see what you are and what you represent. Let me try [test] you.＊§ This approach will prevent your impressions from hardening into opinions before you determine their reasonableness.
 
@@ -1465,9 +1444,7 @@ By following these three steps, you will gain control of your opinions, and that
 
 Applications 1. Imagine that you are the senior librarian for your college. A faculty member sends you the following list of recommended magazines, with a brief description of each quoted from a standard guide, Magazines for Libraries, by Bill Katz and Linda Sternberg Katz.18
 
-The Nation. ※This is the foremost liberal/left-wing journal, and the standard by which all other liberal publications should be judged . . .
-
-unabashedly partisan.§
+The Nation. ※This is the foremost liberal/left-wing journal, and the standard by which all other liberal publications should be judged . . .unabashedly partisan.§
 
 Human Events. ※The editor makes no claims about impartiality. . . . The editorial tone is decidedly conservative, particularly when discussing Congress.§
 
@@ -1480,13 +1457,25 @@ Explain which magazines you would subscribe to for the library, which you would 
 
  2. Which of the following individuals is likely to be most successful at persuading the public to buy a certain brand of running shoes? Explain your reasoning.
 
-a. An experienced trainer b. An Olympic running champion c. A podiatrist d. A physician in general practice e. The surgeon general of the United States 3. Of the individuals listed in application 2, who is likely to be the most knowledgeable source of information on running shoes?
+a.An experienced trainer 
+b. An Olympic running champion 
+c. A podiatrist 
+d. A physician in general practice 
+e. The surgeon general of the United States 
+
+3. Of the individuals listed in application 2, who is likely to be the most knowledgeable source of information on running shoes?
 
 4. What factors might compromise the endorsements of the various people listed in application 2? Which individual＊s endorsement would you be most likely to trust? Explain.
 
 5. When this author uses the word opinion, his major emphasis is on which of the following? Explain your reasoning.
 
-a. A statement of preference b. A considered judgment c. A view or belief casually arrived at d. A bigoted position e. An unsupportable position f. All of the above g. None of the above 6. Which of the following would this author be likely to rate as most important in forming a reliable opinion? Explain your reasoning.
+a.A statement of preference 
+b.A considered judgment 
+c.A view or belief casually arrived at 
+d.A bigoted position e. An unsupportable position 
+e.All of the above g. None of the above 
+
+6. Which of the following would this author be likely to rate as most important in forming a reliable opinion? Explain your reasoning.
 
 a. Seek reasons to support your opinions.
 
@@ -1554,49 +1543,30 @@ as a gimmick to attract customers. The women flock to the bars to get cheap drin
 
 Burt: Sorry. It＊s very different from two-for-one cocktail hours, where a person of either sex can buy a cocktail at the same price. Ladies＊ nights set a double standard based on sex and that＊s sex discrimination, pure and simple.
 
-Henrietta: So now you＊re a great foe of discrimination. How come you＊re not complaining that men haven＊t got an equal opportunity to participate half naked in mud-wrestling contests? And why aren＊t you protesting the fact that women are paid less for doing the same jobs men do? You＊re 
-
-a phony, Burt, and you make me sick.
+Henrietta: So now you＊re a great foe of discrimination. How come you＊re not complaining that men haven＊t got an equal opportunity to participate half naked in mud-wrestling contests? And why aren＊t you protesting the fact that women are paid less for doing the same jobs men do? You＊re a phony, Burt, and you make me sick.
 
 Burt: Name-calling is not a sign of a strong intellect. And why you should get so emotional over some lawyer＊s protest, I can＊t imagine. I guess it goes to show that women are more emotional than men.
 
 A Difference of Opinion
 
-The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowledgeable people have said about the issue. Be sure to cover the entire range of 
- views. Then assess the strengths and weaknesses of each. If you conclude 
+The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowledgeable people have said about the issue. Be sure to cover the entire range of views. Then assess the strengths and weaknesses of each. If you conclude that one view is entirely correct and the others are mistaken, explain how you reached that conclusion. If, as is more likely, you find that one view is more insightful than the others but that they all make some valid points, construct a view of your own that combines the insights from all views and explain why that view is the most reasonable of all. Present your response in a composition or an oral report, as your instructor specifies.
 
-that one view is entirely correct and the others are mistaken, explain how you reached that conclusion. If, as is more likely, you find that one view is more 
+Has government in the United States grown too big for the good of its citizens? Many people argue that it has. Their most publicized concerns are the government＊s involvement in the ※bailouts§ of financial institutions, the virtual takeover of General Motors, and the enactment of health care legislation. They also point to federal, state, and city income taxes; gasoline and cigarette taxes; and an increasing number of regulations〞for example, on the salt and fat content of foods, smoking, and seat belts. Those who disagree that government is too big point to its contributions to protecting the environment, maintaining product safety, and overcoming poverty and discrimination.
 
-insightful than the others but that they all make some valid points, construct a view of your own that combines the insights from all views and explain why that view is the most reasonable of all. Present your response in a composition or an oral report, as your instructor specifies.
-
-Has government in the United States grown too big for the good of its citizens? Many people argue that it has. Their most publicized concerns are the government＊s involvement in the ※bailouts§ of financial institutions, the virtual takeover of General Motors, and the enactment of health care legislation. They also point to federal, state, and city income taxes; gasoline and cigarette taxes; and an increasing number of regulations〞for example, on the salt and fat content of foods, smoking, and seat belts. Those who disagree that government is too big point to its contributions to protecting the environment, maintaining product safety, and overcoming poverty and 
-
-discrimination.
-
-Begin your analysis by conducting a Google search using the terms ※limited 
-
-government§ and ※free enterprise economy.§
+Begin your analysis by conducting a Google search using the terms ※limited government§ and ※free enterprise economy.§
 
 
 CHAPTER 6
 
 What Is Evidence?
 
-To state an opinion is to tell others what we think about something; to 
+To state an opinion is to tell others what we think about something; to present evidence is to show others that what we think makes sense. Being shown is much more interesting and impressive than being told〞we＊ve all known this since grade school. Why, then, does so much writing and speaking consist of piling one opinion on another, with little or no evidence offered in support of any of them? As we saw in Chapter 5, one reason is that the human mind is a veritable opinion factory, so most people have an abundance of opinions to share. Another reason is that people tend to remember their opinions and forget the process by which they got them, much as students remember their final grade in a course long after they have forgotten the tests and homework grades that resulted in it.
 
-present evidence is to show others that what we think makes sense. Being shown is much more interesting and impressive than being told〞we＊ve all known this since grade school. Why, then, does so much writing and speaking consist of piling one opinion on another, with little or no evidence offered in support of any of them? As we saw in Chapter 5, one reason is that the human mind is a veritable opinion factory, so most people have an abundance of opinions to share. Another reason is that people tend to remember their opinions and forget the process by which they got them, much as students remember their final grade in a course long after they have forgotten the tests and homework grades that resulted in it.
-
-Another, and in some ways more significant, reason is that sometimes there is little or no evidence to remember〞in other words, the opinion is based on nothing substantial. For example, in early 1999 many people held the opinion that William Jefferson Clinton＊s lying under oath did not
-
-※rise to the level of an impeachable offense.§ When asked to explain why they thought that, some people repeated the assertion in identical or similar words: ※He shouldn＊t be removed from office for what he did§ or
+Another, and in some ways more significant, reason is that sometimes there is little or no evidence to remember〞in other words, the opinion is based on nothing substantial. For example, in early 1999 many people held the opinion that William Jefferson Clinton＊s lying under oath did not ※rise to the level of an impeachable offense.§ When asked to explain why they thought that, some people repeated the assertion in identical or similar words: ※He shouldn＊t be removed from office for what he did§ or
 
 ※It＊s between him and Hillary.§ Some offered related opinions: ※It＊s a right-wing conspiracy§ or ※Independent counsel Kenneth Starr is on a witch-hunt.§ Though it is impossible to be certain why they thought as they did, the fact that they expressed the opinion in the very same words incessantly repeated by a half dozen White House advisors and innumerable other Clinton supporters suggests that they simply borrowed the opinion without evaluating it.*
 
 *The fact that many people embraced this opinion without much evidence does not mean that no evidence could be marshalled for the view. Other supporters of President Clinton responded more substantively.
-
-72
-
-CHAPTER 6 What Is Evidence? 73
 
 We can all identify with those people. More often than most of us would care to admit, when called on to support our opinions, we manage to produce only the flimsiest of evidence. We may soothe ourselves with the notion that a thick folder of evidence lies misfiled in our minds, but the very real possibility remains that flimsy evidence was all we ever had.
 
@@ -1636,8 +1606,7 @@ Does the author have a reputation for careful reporting? Does the publisher or b
 
 EYEWITNESS TESTIMONY
 
-Because eyewitness testimony is commonly considered to be the most reliable kind of evidence, you may be surprised to find that it is sometimes badly flawed for any one of several reasons. The external conditions may 
-CHAPTER 6 What Is Evidence? 75 not have been optimal〞for example, the incident may have occurred late on a foggy night and the eyewitness may have been some distance away. The eyewitness may have been tired or under the influence of alcohol or drugs;
+Because eyewitness testimony is commonly considered to be the most reliable kind of evidence, you may be surprised to find that it is sometimes badly flawed for any one of several reasons. The external conditions may not have been optimal〞for example, the incident may have occurred late on a foggy night and the eyewitness may have been some distance away. The eyewitness may have been tired or under the influence of alcohol or drugs;
 
 his or her observation may also have been distorted by preconceptions or expectations. Further, the person＊s memory of what occurred may have been confused by subsequent events. Such confusion can be a special problem when considerable time has elapsed between the event and the testimony.
 
@@ -1649,9 +1618,7 @@ Increasingly, celebrities are seen endorsing products and services in commercial
 
 Your respect for celebrities as entertainers may lead you to assume that they know what they are talking about in interviews. This assumption is often mistaken. They may be very well informed. Or they may have been caught unawares by the host＊s question and, not wanting to seem ignorant, uttered whatever happened to come to mind. Some celebrities may be so impressed with their own importance that they imagine whatever they say is profound for no other reason than that they say it! In the case of testimonials for products or services, the celebrities may have been paid to say things about products that they know little or nothing about.
 
-To evaluate celebrity testimony, ask, In the case of advertisements or infomercials, is the celebrity a paid spokesperson? (This is often indicated in small print at the end of the ad.) In the case of talk show comments, does the celebrity offer any support for his or her views〞for example, citing research conducted by qualified people? Also, does the host ask for such support? If the discussion consists of little more than a series of 
-
-assertions expressing the celebrity＊s unsupported opinion, you would do well to discount it no matter now much you may admire the person.
+To evaluate celebrity testimony, ask, In the case of advertisements or infomercials, is the celebrity a paid spokesperson? (This is often indicated in small print at the end of the ad.) In the case of talk show comments, does the celebrity offer any support for his or her views〞for example, citing research conducted by qualified people? Also, does the host ask for such support? If the discussion consists of little more than a series of  assertions expressing the celebrity＊s unsupported opinion, you would do well to discount it no matter now much you may admire the person.
 
 
 EXPERT OPINION
@@ -1671,9 +1638,6 @@ To evaluate experimental evidence, ask, For a laboratory experiment, has it been
 STATISTICS
 
 In the broad sense, the term statistics applies to any information that can be quantified, for example, the changes in average temperature over a period of time to determine whether the phenomenon of global warming is occurring.
-
- 
-CHAPTER 6 What Is Evidence? 77
 
 The term statistics may also be used more narrowly to mean quantifiable information about a group that is obtained by contacting, or otherwise accounting for, every individual in the group. The U.S. Census is one example of statistics in this sense. Others are the voting records of U.S. senators, the percentage of automobile fatalities involving drunk driving, the fluctuations in immigration patterns over the past century, the percentage of unwed mothers who come from one-parent homes, and the comparative education and income levels of various racial-ethnic groups.
 
@@ -1708,8 +1672,7 @@ thorough review of research reveals areas of agreement and disagreement and prov
 
 When evaluating a research review, ask, Do the reviewer＊s conclusions seem reasonable given the research covered in the review? Has the reviewer omitted any relevant research? (As a layperson, you may find the latter question impossible to answer yourself. You could, however, ask it of another expert in the field who is familiar with both the actual research and the review.)
 
-One additional question is applicable to all kinds of evidence: Is this evidence relevant to the issue under consideration? If it is not relevant, it deserves no consideration, no matter how excellent it may be in other  
-CHAPTER 6 What Is Evidence? 79 respects. Here is an actual example of an issue that has been badly confused by the use of irrelevant evidence. For years, many college administrators rejected instructors＊ requests for a reduction in class size for courses such as writing, speaking, and critical thinking. The administrators cited scholarly studies demonstrating that teaching effectiveness is unrelated to class size〞in other words, that teachers can be as effective with fifty students in the classroom as they are with fifteen. Yet the scholarly studies in question examined only courses that impart information, not those that develop skills. For the latter, the very courses in question, the evidence had no relevance.
+One additional question is applicable to all kinds of evidence: Is this evidence relevant to the issue under consideration? If it is not relevant, it deserves no consideration, no matter how excellent it may be in other respects. Here is an actual example of an issue that has been badly confused by the use of irrelevant evidence. For years, many college administrators rejected instructors＊ requests for a reduction in class size for courses such as writing, speaking, and critical thinking. The administrators cited scholarly studies demonstrating that teaching effectiveness is unrelated to class size〞in other words, that teachers can be as effective with fifty students in the classroom as they are with fifteen. Yet the scholarly studies in question examined only courses that impart information, not those that develop skills. For the latter, the very courses in question, the evidence had no relevance.
 
 Evaluating Evidence
 
@@ -1756,14 +1719,11 @@ Applications 1. Many years ago an expert on thinking made this observation: ※Pr
 
 Think of several recent occasions when you formed opinions with little or no evidence. In each case state the opinion and explain what kind of evidence would be necessary to support it adequately.
 
-2. Cartoonist Scott Adams once observed, ※Reporters are faced with the daily choice of painstakingly researching stories or writing whatever people tell  
-CHAPTER 6 What Is Evidence? 81 them. Both approaches pay the same.§5 In what way, if any, is this remark related to the subject of this chapter? Explain.
+2. Cartoonist Scott Adams once observed, ※Reporters are faced with the daily choice of painstakingly researching stories or writing whatever people tell them. Both approaches pay the same.§5 In what way, if any, is this remark related to the subject of this chapter? Explain.
 
 3. Some years ago, a well-known television actress was on a talk show discussing a number of topics, including an episode of her show in which two lesbians kissed on camera. The actress volunteered this opinion: ※This is a time in our society when homophobia is really huge and crimes against gays are at an all-time high.§ If the talk show host had been a critical thinker, what questions would he have asked at that point? What kind of evidence would be helpful in testing the reasonableness of her opinion?
 
-4. In Chapter 5, application 10, you responded to each of the following 
-
-questions with an opinion. Review those opinions and the evidence you offered in support of them. In each case classify the evidence as personal experience, 
+4. In Chapter 5, application 10, you responded to each of the following questions with an opinion. Review those opinions and the evidence you offered in support of them. In each case classify the evidence as personal experience, 
 
 unpublished report, published report, eyewitness testimony, celebrity testimony, expert opinion, experiment, statistics, survey, formal observation, or research review. Decide whether your evidence was sufficient. If you find it was not, explain what kind of evidence would be necessary to support the opinion adequately.
 
@@ -1863,10 +1823,7 @@ Kennedy killed by a single assassin? Was Israel justified in bombing Lebanon in 
 
 The Parts of an Argument
 
-The field of knowledge most closely associated with the study of argument is logic, which, like other fields that deal with complex matters, has its own special terminology. Since this book is more practical than theoretical, we will limit our concern to those terms that signify the parts of an argument: the premises and the conclusion. In the argument about Wynona mentioned above, the premises are ※The law prohibits teachers from leading class prayers in public schools§ and ※Wynona leads students in prayer in her public school classroom.§ The conclusion is ※Therefore,
-
-Wynona is breaking the law.§ (The word therefore and synonyms such as 
-CHAPTER 7 What Is Argument? 85 so and consequently are often used to identify conclusions. Where they are not used, you can usually identify the conclusion by answering the question, Which assertion do the other assertions support or reinforce?)
+The field of knowledge most closely associated with the study of argument is logic, which, like other fields that deal with complex matters, has its own special terminology. Since this book is more practical than theoretical, we will limit our concern to those terms that signify the parts of an argument: the premises and the conclusion. In the argument about Wynona mentioned above, the premises are ※The law prohibits teachers from leading class prayers in public schools§ and ※Wynona leads students in prayer in her public school classroom.§ The conclusion is ※Therefore,Wynona is breaking the law.§ (The word therefore and synonyms such as so and consequently are often used to identify conclusions. Where they are not used, you can usually identify the conclusion by answering the question, Which assertion do the other assertions support or reinforce?)
 
 The basic principles logicians use in evaluating arguments are as follows:
 
@@ -1943,8 +1900,7 @@ Did he really?
 
 Does this conclusion follow logically from what is stated in the premises? Would any other conclusion be as reasonable?
 
-Comment: Both the first and the second premises are true. (The authorities could have lied about Bruno＊s score, but let＊s assume they didn＊t.) Still, the premises don＊t provide sufficient evidence to draw the conclusion that is given or, for that matter, any other conclusion. We need to know 
-CHAPTER 7 What Is Argument? 87 whether an innocent person can fail a lie detector test. If so, then Bruno could be innocent.
+Comment: Both the first and the second premises are true. (The authorities could have lied about Bruno＊s score, but let＊s assume they didn＊t.) Still, the premises don＊t provide sufficient evidence to draw the conclusion that is given or, for that matter, any other conclusion. We need to know whether an innocent person can fail a lie detector test. If so, then Bruno could be innocent.
 
 The Argument
 
@@ -2005,7 +1961,7 @@ Therefore, the Ten Commandments should not be displayed in public schools.
 Comment: One alternative that draws on each of these arguments but goes beyond them is to argue for the display of all versions of the Ten Commandments (and there are several), as well as any other religious or secular list of moral values. The reasoning would be that accommodating all perspectives is no more offensive than ignoring all and has the additional benefit of emphasizing the importance of moral values.
 
 
-CHAPTER 7 What Is Argument? 89
+ 
 
 When an argument contains hidden premises, identify them before proceeding with your evaluation. Hidden premises are clearly implied ideas that are not recognized when the argument is conceived and expressed.
 
@@ -2059,7 +2015,9 @@ The Questions
 
 Does the book expose children to violence?
 
-Is exposure to violence always harmful? (Note that in the absence of limiting terms, such as sometimes, the general term alwaysis implied.)
+Is exposure to violence always harmful? (Note that in the absence of limiting terms, such as sometimes, the general term always is implied.)
+Second Hidden Premise: Banning is the most appropriate reaction to such material.
+Conclusion: That book should be banned. Is banning the most appropri-ate reaction to such material?Do the premises lead to this conclusion and no other?
 
 4. Argument: Pure water is healthy to drink, and Pristine Mountain Water is pure, so I＊m treating my body right by drinking it rather than tap water.
 
@@ -2101,16 +2059,7 @@ b. Should the states and/or the federal government provide vouchers to parents s
 
 c. Should patients be able to sue their health maintenance organizations?
 
-Second Hidden Premise: Banning is the most appropriate reaction to such material.
-
-Conclusion: That book should be banned.
-
-Is banning the most appropriate reaction to such material?
-
-Do the premises lead to this conclusion and no other?
-
-
-CHAPTER 7 What Is Argument? 91 d. Should a referendum be required before state and federal legislatures can raise taxes?
+ d. Should a referendum be required before state and federal legislatures can raise taxes?
 
 e. Should marijuana be legalized for medical use?
 
@@ -2189,13 +2138,7 @@ I＊m something special.§
 
 Several years later, those children will be saying, ※My car is faster than yours§ or ※My football team will go all the way this year§ or ※My marks are higher than Olivia＊s.§ (That＊s one of the great blessings for students〞although they may have to stoop to compare, they can usually find someone with lower grades than theirs.)
 
-Even later, when they＊ve learned that it sounds boastful to say their possessions are better, they＊ll continue to think they are: ※My house is more expensive, my club more exclusive, my spouse more attractive, my
-
-*One exception to the rule occurs when we are envying others. But that is a special situation that doesn＊t contradict the point being made here.
-
-94
-
-CHAPTER 8 The Basic Problem: ※Mine Is Better§ 95 children better behaved, my accomplishments more numerous, and my ideas, beliefs, and values more insightful and profound than other people＊s.§
+Even later, when they＊ve learned that it sounds boastful to say their possessions are better, they＊ll continue to think they are: ※My house is more expensive, my club more exclusive, my spouse more attractive, my children better behaved, my accomplishments more numerous, and my ideas, beliefs, and values more insightful and profound than other people＊s.§
 
 All of this, as we have noted, is natural, though not especially noble or virtuous or, in many cases, even factual〞simply natural. The tendency is probably as old as humanity. History records countless examples of it.
 
@@ -2226,7 +2169,6 @@ Ethnocentric means excessively centered or focused on one＊s group. Note the inc
 What distinguishes ethnocentric individuals from those who feel a normal sense of identification with their group is that ethnocentric people believe (a) that their group is not merely different from other groups but fundamentally and completely superior to them and (b) that the motivations and intentions of other groups are suspect. These beliefs create a bias that blocks critical thinking. Ethnocentric people are eager to challenge the views of other groups but unwilling to question the views of their own group. As a result, they tend to respond to complex situations with oversimplifications. They acknowledge no middle ground to issues〞things are all one way, the way that accords with their group＊s perspective. They also tend to form negative stereotypes of other groups, as psychologist Gordon Allport explained many years ago:
 
 By taking a negative view of great groups of mankind, we somehow make life simpler. For example, if I reject all foreigners as a category, 
-CHAPTER 8 The Basic Problem: ※Mine Is Better§ 97
 
 I don＊t have to bother with them〞except to keep them out of my country. If I can ticket, then, all Negroes as comprising an inferior and objectionable race, I conveniently dispose of a tenth of my fellow citizens. If I can put the Catholics into another category and reject them, my life is still further simplified. I then pare again and slice off the Jew . . . and so it goes.5
 
@@ -2274,8 +2216,7 @@ The appropriate response is to resist the reaction and force yourself to conside
 
 Applications 1. Suppose you have determined that a person making a particular argument is egocentric or ethnocentric. Would that determination be sufficient cause for you to dismiss the argument? Why or why not?
 
-
-CHAPTER 8 The Basic Problem: ※Mine Is Better§ 99 2. Some people claim that contemporary American culture tends to increase rather than diminish egocentrism and ethnocentrism. If this is true, then the ability to think critically is being undermined. Study the media for evidence that supports or refutes this charge, and write a report on your findings. (Be sure to look for subtle, as well as obvious, clues〞for example, the advice offered on talk shows and the appeals used in advertisements, as well as the formal statements of agencies promoting policy changes in government and elsewhere.)
+2. Some people claim that contemporary American culture tends to increase rather than diminish egocentrism and ethnocentrism. If this is true, then the ability to think critically is being undermined. Study the media for evidence that supports or refutes this charge, and write a report on your findings. (Be sure to look for subtle, as well as obvious, clues〞for example, the advice offered on talk shows and the appeals used in advertisements, as well as the formal statements of agencies promoting policy changes in government and elsewhere.)
 
 3. Recall an occasion when you observed someone demonstrating one or more of the characteristics of ethnocentrism in his or her behavior. Describe the occasion, the way in which the characteristics were revealed, and the effect they had on the person＊s judgment.
 
@@ -2335,8 +2276,7 @@ Arthur: Do you mean you agree with that nonsense about the pregnant teacher bein
 
 Guinevere: Yes, I suppose I do. Not that I think everybody deserves firing from his or her job in such circumstances. I think teachers are in a special category. More should be expected of them. They should have to measure up to a higher standard of conduct than people in other occupations because they are in charge of young people＊s education, and young people are impressionable.
 
-
-CHAPTER 8 The Basic Problem: ※Mine Is Better§ 101 9. Group discussion exercise: Reflect on the following statement. Does it make sense? Does anything you read in this chapter help explain it? If so, what? Discuss your ideas with two or three classmates.
+ 9. Group discussion exercise: Reflect on the following statement. Does it make sense? Does anything you read in this chapter help explain it? If so, what? Discuss your ideas with two or three classmates.
 
 It doesn＊t matter if everyone in the world thinks you＊re wrong. If you think you＊re right, that＊s all that counts.
 
@@ -2365,13 +2305,7 @@ Errors of perspective are like seriously distorted lenses, except instead of bei
 
 Poverty of Aspect*
 
-Karl Duncker, a cognitive researcher, coined the term poverty of aspect to refer to the limitation that comes from taking a narrow rather than a broad view on problems and issues. A similar term, with which you may
-
-*This section copyright ? 2006 by MindPower, Inc. used with permission.
-
-102
-
-CHAPTER 9 Errors of Perspective 103 be more familiar, is tunnel vision. In Duncker＊s view, poverty of aspect is
+Karl Duncker, a cognitive researcher, coined the term poverty of aspect to refer to the limitation that comes from taking a narrow rather than a broad view on problems and issues. A similar term, with which you may be more familiar, is tunnel vision. In Duncker＊s view, poverty of aspect is
 
 ※the chief characteristic of poor thinking.§ No doubt poverty of aspect has many causes, including simple intellectual sloth. But two causes are especially noteworthy: the multiplication of the academic disciplines over the course of history and the explosion of knowledge that has taken place in every discipline, especially during the previous century.
 
@@ -2418,7 +2352,7 @@ The assumption that having reasons proves that we have reasoned logically.
 Reasons may be borrowed uncritically from others, and even if they have been thought out, they may still be illogical.
 
 
-CHAPTER 9 Errors of Perspective 105
+
 
 The assumption that familiar ideas are more valid than unfamiliar ones.
 
@@ -2462,7 +2396,7 @@ Yet another example of either/or thinking has occurred in the discussion of an e
 Whenever you are examining an issue and find yourself considering only two alternatives, ask yourself whether additional alternatives exist and, if they do, give them a fair hearing.
 
 
-CHAPTER 9 Errors of Perspective 107
+
 
 Mindless Conformity
 
@@ -2494,8 +2428,7 @@ Relativism is the polar opposite of absolutism. Whereas the absolutist does not 
 
 ※Whose truth are you talking about? Mine may be different from yours.§
 
-They believe that whatever a person believes is true is, by that belief, true 
-CHAPTER 9 Errors of Perspective 109 for him or her. Relativism also holds that morality is subjective rather than objective〞in other words, that moral rules are binding only on those who accept them. The relativist＊s credo is ※If a person thinks any behavior is morally acceptable, then it is acceptable for that person.§
+They believe that whatever a person believes is true is, by that belief, true  for him or her. Relativism also holds that morality is subjective rather than objective〞in other words, that moral rules are binding only on those who accept them. The relativist＊s credo is ※If a person thinks any behavior is morally acceptable, then it is acceptable for that person.§
 
 Relativism opposes critical thinking, the study of ethics, and the processes of law. The point of critical thinking is to separate truth from falsity, the reasonable from the unreasonable; if nothing is false or unreasonable, critical thinking is pointless. Similarly, if everything that anyone wants to do is good, then nothing is bad and moral discourse has no purpose. And if choosing to do something is a justification for doing it, the laws against rape, child molestation, and murder are an infringement on the rights of the perpetrator.
 
@@ -2535,7 +2468,7 @@ Yet when Freud＊s ideas became accepted, he and his followers showed no greater 
 *Don＊t make the mistake of thinking that the older the tradition, the less valuable it is. An ancient tradition may be more sensible than the latest vogue idea. The only way to be sure, of course, is to give it fair and impartial consideration.
 
 
-CHAPTER 9 Errors of Perspective 111 who challenged any part of his theory. Karen Horney, for example, challenged Freud＊s view of women as being driven by penis envy. She believed, too, that neurosis is caused not only by frustrated sexual drives but also by various cultural conflicts and that people＊s behavior is not only determined by instinctual drives but can in many instances be selfdirected and modified. For these theories (today widely accepted), she was rewarded with rebuke and ostracism by the Freudian dogmatists.9
+ who challenged any part of his theory. Karen Horney, for example, challenged Freud＊s view of women as being driven by penis envy. She believed, too, that neurosis is caused not only by frustrated sexual drives but also by various cultural conflicts and that people＊s behavior is not only determined by instinctual drives but can in many instances be selfdirected and modified. For these theories (today widely accepted), she was rewarded with rebuke and ostracism by the Freudian dogmatists.9
 
 To overcome either variety of bias toward change, monitor your reaction to new ideas. Don＊t be surprised if you strongly favor or oppose an idea the first time you encounter it. However, refuse to endorse your first impression uncritically. Instead, suspend judgment until you have examined the idea carefully. If the idea proves insightful and well substantiated, accept it regardless of its oldness or newness; if it is flawed, reject it.
 
@@ -2606,7 +2539,7 @@ c. Alex is a freshman representative in the state legislature. When an important
 ※We＊re supporting the position of that lobbying group; if you value your career, you＊ll do the same.§ He takes their advice and conforms.
 
 
-CHAPTER 9 Errors of Perspective 113 7. Do you tend more toward absolutism or relativism? In what specific areas are you most likely to commit this error of perspective? Politics? Religion?
+ 7. Do you tend more toward absolutism or relativism? In what specific areas are you most likely to commit this error of perspective? Politics? Religion?
 
 Social issues? Moral decisions? Be specific in answering. The more fully you understand your characteristic tendencies toward error, the more successful you can be in overcoming them.
 
@@ -2680,7 +2613,7 @@ How exactly does biased consideration of evidence affect our judgment in actual 
 ? Juan Williams＊s Enough: The Phony Leaders, Dead-End Movements, and Culture of Failure That Are Undermining Black America〞and What We Can Do About It〞begins by crediting Bill Cosby for courageously calling on American blacks to develop a healthier attitude toward education, to stop having children out of wedlock, and to take parenting seriously. Williams documents the accuracy of Cosby＊s views, expands on their import, and offers a plan to accomplish related goals.6
 
 Should the views of these authors be considered the final, authoritative word on the issue? Of course not. Yet they represent a serious, 
-CHAPTER 10 Errors of Procedure 117 informed contribution to the public debate, and no analysis that ignores them can be considered fair and responsible.
+ informed contribution to the public debate, and no analysis that ignores them can be considered fair and responsible.
 
 The worst aspect of bias is that it often occurs innocently, without one＊s awareness, and not just among students. Even professional scholars can commit this error. (That is why you should test the views of authorities for impartiality.) To avoid biased selection of evidence, begin your investigation by seeking out individuals whose views oppose your bias and then go on to those that support it. Also, choose the most reasonable interpretation, regardless of whether it flatters your bias.
 
@@ -2712,18 +2645,7 @@ Remember that there is no shame in postponing judgment until you obtain addition
 
 Overgeneralization and Stereotyping
 
-Generalizing is the mental activity by which we draw broad conclusions from particular experiences. A child hears one dog bark and concludes that barking is characteristic of dogs. This generalization is true, barkless
-
-*For a fuller discussion of this subject, see Stephen Jay Gould, The Mismeasure of Man
-
-(New York: Norton, 1981), chap. 5. Incidentally, many of the psychologists who embraced this conclusion went on to popularize the use of the IQ test in education. One of them,
-
-Carl Brigham, later developed the Scholastic Aptitude Test, popularly known as the SAT.
-
-
-CHAPTER 10 Errors of Procedure 119
-
-Basenjis notwithstanding. When Mommy says, ※Be careful of that pencil, it can poke your eye out,§ the child understands, again rightly, that all pencils have that capacity. As these modest examples suggest, generalizing is not only natural but indispensable to learning. We never see things in general〞that is, all dogs, all pencils, all mountains, all rivers, all teachers, or all anything else. Rather, we see particular members of a general class〞individually or in groups〞and generalize from them.
+Generalizing is the mental activity by which we draw broad conclusions from particular experiences. A child hears one dog bark and concludes that barking is characteristic of dogs. This generalization is true, barkless Basenjis notwithstanding. When Mommy says, ※Be careful of that pencil, it can poke your eye out,§ the child understands, again rightly, that all pencils have that capacity. As these modest examples suggest, generalizing is not only natural but indispensable to learning. We never see things in general〞that is, all dogs, all pencils, all mountains, all rivers, all teachers, or all anything else. Rather, we see particular members of a general class〞individually or in groups〞and generalize from them.
 
 As long as we exercise reasonable care, generalizing serves us well.
 
@@ -2739,11 +2661,7 @@ Does every reference to group characteristics constitute a stereotype?
 
 No. Recurring patterns of thinking and acting are observable in groups, and references to those patterns are therefore legitimate. In ancient times the Chinese were more creative than most other peoples; in the late nineteenth century and much of the twentieth, German industrial technology led the world; in recent decades the Japanese have demonstrated remarkable inventiveness and concern for quality. Furthermore, not all cultural patterns are complimentary. For centuries the Spanish and Portuguese disdained manual labor, thinking it a sign of dishonor, and emigrants to Latin America carried that attitude with them. Today Sri Lankans have a similar attitude.
 
-The prevalence of this attitude in these societies can be acknowledged without suggesting that all Hispanics and Sri Lankans are lazy. (Incidentally, the belief that manual labor is dishonorable reflects illogical reasoning rather than indolence.) As Thomas Sowell points out, the acknowledgment and examination of all cultural patterns, desirable and undesirable, advantageous
-
-*Note that any generalization that does not include a specific qualification such as most, many, some, several, or Agnes is understood to mean all members of the group. Thus saying,
-
-※New Yorkers are rude,§ is the same as saying, ※All New Yorkers are rude.§and disadvantageous, is essential to understanding the success and failure of groups, nations, and entire civilizations.7
+The prevalence of this attitude in these societies can be acknowledged without suggesting that all Hispanics and Sri Lankans are lazy. (Incidentally, the belief that manual labor is dishonorable reflects illogical reasoning rather than indolence.) As Thomas Sowell points out, the acknowledgment and examination of all cultural patterns, desirable and undesirable, advantageous and disadvantageous, is essential to understanding the success and failure of groups, nations, and entire civilizations.7
 
 Both overgeneralizations and stereotypes hinder critical thinking because they prevent us from seeing the differences among people within groups. To avoid these errors, resist the urge to force individual people, places, or things into rigid categories. In forming generalizations, keep in mind that the more limited your experience, the more modest you should make your assertion. In the continuums presented below, the center terms
 
@@ -2767,12 +2685,12 @@ If the students haven＊t learned, the teacher hasn＊t taught.
 
 Analysis
 
-Students＊ failure to learn is sometimes the teacher＊s fault and sometimes the students＊ own fault for not putting forth the required effort. This statement suggests that the fault always lies with the teacher; thus it 
+Students＊ failure to learn is sometimes the teacher＊s fault and sometimes the students＊ own fault for not putting forth the required effort. This statement suggests that the fault always lies with the teacher; thus it oversimplifies.
 
-oversimplifies.
+We know ourselves better than others know us.
 
 
-CHAPTER 10 Errors of Procedure 121
+
 
 Oversimplification often occurs in matters about which people have strong feelings. When laws were passed requiring restaurants to serve any customer, regardless of race, religion, or national origin, some restaurant owners were angry. They reasoned that people who invest their hard-earned money in a business have the right to serve or not serve whomever they please. That side of the issue was so important to them that they regarded it as the only side. But there was another important side: the right of citizens to have access to public places.
 
@@ -2786,13 +2704,7 @@ The desire for ratings and financial success has pressured some journalists to a
 
 The Post Hoc Fallacy
 
-Post hoc is an abbreviation of a Latin term, post hoc, ergo propter hoc, which means ※after this, therefore because of this.§ It expresses the reasoning We know ourselves better than others know us.
-
-It is true that we know some things about ourselves better than others do; for example, our hopes, dreams, and fantasies. Yet there are things about ourselves that we unconsciously block to preserve our self-image; for example, personal faults such as envy, pettiness, and hypocrisy. These faults are often perfectly clear to others.
-
-By ignoring this fact, the statement in question oversimplifies.
-
-that when one thing occurs after another, it must be the result of the other.
+Post hoc is an abbreviation of a Latin term, post hoc, ergo propter hoc, which means ※after this, therefore because of this.§ It expresses the reasoning that when one thing occurs after another, it must be the result of the other.
 
 The error in this thinking is the failure to realize that mere order and closeness in time does not prove a cause-and-effect relationship. One event can follow another by coincidence and thus be entirely unrelated to it.
 
@@ -2815,7 +2727,7 @@ Christians and non-Christians, atheists and agnostics alike.§ Does anything you
 4. Describe one or more situations in which you or someone you know committed the error of the double standard. Explain the error in terms that someone who did not read this chapter would understand.
 
 
-CHAPTER 10 Errors of Procedure 123 5. Describe one or more situations in which you or someone you know committed the post hoc fallacy. Explain the error in terms that someone who did not read this chapter would understand.
+ 5. Describe one or more situations in which you or someone you know committed the post hoc fallacy. Explain the error in terms that someone who did not read this chapter would understand.
 
 6. In late August, the Lees, a Chinese American family, moved into Louise＊s neighborhood, and Louise became acquainted with one of the children, Susan, a girl her own age. A week later, during school registration, Louise passed Susan in the hall, but Susan didn＊t even look at her. Which of the following conclusions was Louise justified in drawing? (You may select more than one or reject all of them.) Explain your answer with appropriate references to the chapter.
 
@@ -2882,7 +2794,7 @@ They argue that the key to fighting genuine discrimination is to be aggressive i
 1. After an Illinois high school basketball player was arrested twice for driving under the influence of alcohol, the coach kicked him off the team. The young man responded by claiming that because he was an alcoholic, his dismissal constituted discrimination under the Americans with Disabilities Act. Based on that reasoning, he sued for $100,000 in damages and demanded reinstatement on the team.
 
 
-CHAPTER 10 Errors of Procedure 125 2. A 5-foot-8-inch, 240-pound woman claimed that the requirement that Jazzercise instructors be slender and athletic constituted weight discrimination.
+ 2. A 5-foot-8-inch, 240-pound woman claimed that the requirement that Jazzercise instructors be slender and athletic constituted weight discrimination.
 
 3. When a candidate for the New London, Connecticut, police force got an unusually high score on a problem-solving exam, the police chief and the city attorney rejected him, reasoning that he was too bright for the job and would probably be bored. The candidate filed a discrimination lawsuit against them.
 
@@ -2901,19 +2813,13 @@ We have already examined two categories of errors: those that create obstacles t
 
 At this point you may be wondering, Aren＊t the errors listed above thinking errors? If so, what＊s the point of calling them ※errors of expression§?
 
-Excellent questions both. The errors in this chapter, like those we have already considered and those we will consider in the next chapter, are without exception errors of thought because they originate in the mind, more or less consciously (sometimes dimly so). We would therefore be perfectly justified in treating all kinds of error under a single heading〞
-
-※Errors of Thought,§ for example, or ※Logical Fallacies.§ In fact, many books on thinking treat them just that way.
+Excellent questions both. The errors in this chapter, like those we have already considered and those we will consider in the next chapter, are without exception errors of thought because they originate in the mind, more or less consciously (sometimes dimly so). We would therefore be perfectly justified in treating all kinds of error under a single heading〞 ※Errors of Thought,§ for example, or ※Logical Fallacies.§ In fact, many books on thinking treat them just that way.
 
 The rationale for using four categories is that different errors tend to occur〞or at least are most evident〞at different stages in the overall process of thinking. Although errors of expression may begin to take shape in the mind at some earlier time, they are most easily recognized and corrected when we are speaking or writing. Treating them in a separate category, ※Errors of Expression,§ helps us remember when to be alert for them.
 
 Contradiction
 
 One of the fundamental principles of logic is the principle of contradiction, which states that no statement can be both true and false at the same time in the same way. The best way to see its correctness is to try to construct a statement that disproves it. Here are just a few possibilities:
-
-126
-
-CHAPTER 11 Errors of Expression 127
 
 Argument: O. J. Simpson murdered Nicole Brown Simpson. (Comment:
 
@@ -2943,8 +2849,7 @@ The popular Dean Witter advertising slogan, ※We measure success one investor at
 
 In the course of presenting ideas, people often find it useful or necessary to present the reasons that underlie their thoughts and actions. A
 
-meaningless explanation is one in which the reasons make no sense. For example, a used-car dealer says in a commercial, ※I＊ll cosign your loan even if you＊ve had a bankruptcy. That＊s because we take the trouble to handpick and inspect these cars before you even see them. . . . We guarantee financing because we sell only quality cars.§ The careful viewer wonders, How can care in selecting cars ensure that purchasers will meet their credit obligations? (Answer: It can＊t.) The following headline from a print advertisement for a furniture company offers another example of meaningless explanation: ※Good news! Due to the unprecedented success of our giant furniture sale, we have extended it for ten days.§ If it was so successful, we might ask, how is it that they still have enough merchandise for a ten-day extension? (The more cynical among us might translate 
-CHAPTER 11 Errors of Expression 129 the headline as follows: ※The sale was such a flop that we＊re left with a warehouse full of inferior merchandise and we＊re desperate to have people buy it.§)
+meaningless explanation is one in which the reasons make no sense. For example, a used-car dealer says in a commercial, ※I＊ll cosign your loan even if you＊ve had a bankruptcy. That＊s because we take the trouble to handpick and inspect these cars before you even see them. . . . We guarantee financing because we sell only quality cars.§ The careful viewer wonders, How can care in selecting cars ensure that purchasers will meet their credit obligations? (Answer: It can＊t.) The following headline from a print advertisement for a furniture company offers another example of meaningless explanation: ※Good news! Due to the unprecedented success of our giant furniture sale, we have extended it for ten days.§ If it was so successful, we might ask, how is it that they still have enough merchandise for a ten-day extension? (The more cynical among us might translate the headline as follows: ※The sale was such a flop that we＊re left with a warehouse full of inferior merchandise and we＊re desperate to have people buy it.§)
 
 To detect meaningless statements in your writing, look at what you have said as critically as you look at what other people say. Ask, Am I
 
@@ -2976,8 +2881,7 @@ IRRATIONAL APPEAL TO EMOTION
 
 A rational appeal to emotion not only stimulates feelings but also demonstrates their appropriateness to the ideas being presented. For example, a public service commercial against drunk driving might use an accident scene to make us feel sadness and pity for the victims and thus take more seriously the verbal message ※Don＊t mix drinking and driving.§ An ad for an international charity might show us the faces of hungry children as a narrator explains that the cost of feeding a child is only eighty cents a day. Such appeals are legitimate because they either explain the connection between the feelings and the ideas or at least invite us to think about that connection.
 
-In contrast, an irrational appeal to emotion uses feelings as a substitute for thought. This kind of appeal stimulates feelings of fear, resentment, guilt, love of family or country, or pity without demonstrating their appropriateness. A politician might say that her opponent＊s budgetary proposal will take food out of the mouths of the nation＊s children or rob elderly people of their social security benefits without offering any documentation for the charge. A lawyer might describe his client＊s love for his mother, kindness to animals, and overall feeling of benevolence toward the world in an effort to evoke sufficient sympathy to make the jury 
-CHAPTER 11 Errors of Expression 131 forget about the evidence against his client. The most audacious courtroom example of such an appeal (often used to define the Yiddish term chutzpah) is the case of the man who killed both his parents and then begged the court for mercy because he was an orphan!
+In contrast, an irrational appeal to emotion uses feelings as a substitute for thought. This kind of appeal stimulates feelings of fear, resentment, guilt, love of family or country, or pity without demonstrating their appropriateness. A politician might say that her opponent＊s budgetary proposal will take food out of the mouths of the nation＊s children or rob elderly people of their social security benefits without offering any documentation for the charge. A lawyer might describe his client＊s love for his mother, kindness to animals, and overall feeling of benevolence toward the world in an effort to evoke sufficient sympathy to make the jury forget about the evidence against his client. The most audacious courtroom example of such an appeal (often used to define the Yiddish term chutzpah) is the case of the man who killed both his parents and then begged the court for mercy because he was an orphan!
 
 IRRATIONAL APPEAL TO TRADITION
 
@@ -3023,7 +2927,7 @@ Applications 1. A British physician made the following statement in 1932: ※If y
 5. Read the following dialogue carefully. If you note any of the errors in thinking discussed in this chapter or in Chapters 9 and 10, identify them. Then decide which view of the issue is more reasonable and explain why you think so, taking care to avoid the errors discussed in this and previous chapters.
 
 
-CHAPTER 11 Errors of Expression 133
+
 
 Background note: In past decades college officials debated whether to censor student newspapers that published stories containing four-letter words and explicit sexual references.
 
@@ -3082,7 +2986,9 @@ Begin your analysis by conducting a Google search using the term
 
 CHAPTER 12
 
-Errors of Reaction Before you began studying critical thinking, you might not have imagined that so many pitfalls lie in wait for the unsuspecting. So far we have discussed seven errors of perspective, six errors of procedure, and six errors of expression〞nineteen in all, and we＊re not quite done yet. The final category is errors of reaction, which occur after we have expressed our ideas and others have criticized or challenged them. What causes us to commit errors of reaction? Perhaps the best general answer to this question was offered many years ago by Rowland W. Jepson in a book he wrote on the subject of thinking:
+Errors of Reaction 
+
+Before you began studying critical thinking, you might not have imagined that so many pitfalls lie in wait for the unsuspecting. So far we have discussed seven errors of perspective, six errors of procedure, and six errors of expression〞nineteen in all, and we＊re not quite done yet. The final category is errors of reaction, which occur after we have expressed our ideas and others have criticized or challenged them. What causes us to commit errors of reaction? Perhaps the best general answer to this question was offered many years ago by Rowland W. Jepson in a book he wrote on the subject of thinking:
 
 When we have once adopted an opinion, our pride makes us loth to admit that we are wrong. When objections are made to our views, we are more concerned with discovering how to combat them than how much truth or sound sense there may be in them; we are at pains rather to find fresh support for our own views, than to face frankly any new facts that appear to contradict them. We all know how easy it is to become annoyed at the suggestion that we have made a mistake; that our first feeling is that we would rather do anything than admit it, and our first thought is
 
@@ -3109,7 +3015,7 @@ Employers or co-workers? What some people think of us we may not care about at a
 To summarize, errors of reaction are face-saving devices we use to explain away criticism of our ideas. We will discuss five specific errors〞 automatic rejection, changing the subject, shifting the burden of proof, straw man, and attacking the critic.
 
 
-CHAPTER 12 Errors of Reaction 137
+
 
 Automatic Rejection
 
@@ -3144,8 +3050,7 @@ This is an eloquent, moving answer to a question that wasn＊t asked!
 
 Meanwhile, the question that was asked is left unanswered. In this case there is good reason to suspect that the candidate intended not to answer the question because any answer he could give would alienate some group of voters. In fact, he may have been warned by advisors before beginning his campaign, ※Whenever you are asked about abortion, change the subject.§
 
-Politicians are not the only ones who shift issues to avoid addressing difficult questions or to escape potentially awkward situations. This tactic 
-CHAPTER 12 Errors of Reaction 139 is used in all walks of life. In legal circles, for example, legend has it that an attorney＊s assistant once rushed into the courtroom and handed the attorney a note that read, ※It appears we have no case. Abuse the plaintiff.§
+Politicians are not the only ones who shift issues to avoid addressing difficult questions or to escape potentially awkward situations. This tactic is used in all walks of life. In legal circles, for example, legend has it that an attorney＊s assistant once rushed into the courtroom and handed the attorney a note that read, ※It appears we have no case. Abuse the plaintiff.§
 
 Intentionally changing the subject frustrates the purpose of discussion. To avoid this error, face difficult questions head-on. If you know the answer, state it. If the issue is too complex to permit a certain answer, state what you believe to be probable and explain your reasoning. If you lack sufficient knowledge to speak of probabilities, say so. No reasonable person will think less of you for candidly admitting ignorance.
 
@@ -3183,8 +3088,7 @@ Instead of responding to the real issue, the actual ideas or behaviors that have
 
 When other women came forward with charges that Clinton had harassed them, the president＊s advisors adopted what became known as the ※nuts and sluts§ strategy〞that is, they insinuated that anyone who made such a charge must be mentally unstable or sexually promiscuous and therefore untrustworthy. Later, when Dick Morris, a former advisor to Clinton, joined Fox News as a consultant and offered his analysis of Clinton＊s behavior and the alleged cover-up strategies, some Clinton loyalists claimed that nothing Morris said was credible because he himself had committed sexual indiscretions and also was disgruntled over his loss of status in the White House.
 
-Attacking the critic is an error because ideas and people are not synonymous. However interesting it may be to probe people＊s motives, such exploration tells us nothing about the quality of their ideas. Even people 
-CHAPTER 12 Errors of Reaction 141 with questionable motives and outright liars sometimes tell the truth.
+Attacking the critic is an error because ideas and people are not synonymous. However interesting it may be to probe people＊s motives, such exploration tells us nothing about the quality of their ideas. Even people with questionable motives and outright liars sometimes tell the truth.
 
 This is not to say that honesty is unimportant or that we should unquestioningly accept the word of people whose integrity we have reason to suspect. It is only to say that it is unreasonable to substitute speculations or judgments about people themselves for judgments of their ideas.
 
@@ -3240,8 +3144,7 @@ d. Argument: For years criminals have sold the rights to their life stories to p
 
 A Difference of Opinion
 
-The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowledgeable people have said about the issue. Be sure to cover the entire range of views. Then assess the strengths and weaknesses of each. If you conclude that one view is entirely correct and the others are mistaken, explain how you reached 
-CHAPTER 12 Errors of Reaction 143 that conclusion. If, as is more likely, you find that one view is more insightful than the others but that they all make some valid points, construct a view of your own that combines the insights from all views and explain why that view is the most reasonable of all. Present your response in a composition or an oral report, as your instructor specifies.
+The following passage summarizes an important difference of opinion. After reading the statement, use the library and/or the Internet and find what knowledgeable people have said about the issue. Be sure to cover the entire range of views. Then assess the strengths and weaknesses of each. If you conclude that one view is entirely correct and the others are mistaken, explain how you reached that conclusion. If, as is more likely, you find that one view is more insightful than the others but that they all make some valid points, construct a view of your own that combines the insights from all views and explain why that view is the most reasonable of all. Present your response in a composition or an oral report, as your instructor specifies.
 
 Is the TV industry＊s manipulation of our minds and emotions a danger to us? This issue has been around for a long time but has been intensifying in recent years. Those who believe the ※manipulation§ is dangerous point to the following devices and their purported effects:
 
@@ -3288,127 +3191,125 @@ Limiting one＊s perspective on issues; having tunnel vision.
 
 Poverty of aspect sometimes is attributable to intellectual sloth;
 
-other times it is a by-product of 
-CHAPTER 13 The Errors in Combination 145
+other times it is a by-product of specialized education and training. To avoid poverty of aspect when evaluating issues, look beyond the familiar, examine all relevant points of view, and understand before judging.
 
 Unwarranted assumptions
 
-Either/or outlook
-
-Mindless conformity
-
-Absolutism
-
-Relativism specialized education and training. To avoid poverty of aspect when evaluating issues, look beyond the familiar, examine all relevant points of view, and understand before judging.
-
 Assumptions are ideas that are taken for granted rather than consciously reasoned out. When what is taken for granted is unjustified by one＊s experience or by the situation, the assumption is unwarranted. Because assumptions seldom are expressed directly, the only way to identify them is to ※read between the lines§ for what is unstated but clearly implied.
+
+Either/or outlook
 
 The expectation that the only reasonable view of any issue will be total affirmation or total rejection. This error rules out the possibility that the most reasonable view might lie between the extremes. To avoid this error, consider all possible alternatives.
 
+Mindless conformity
+
 Adopting others＊ views unthinkingly because we are too lazy or fearful to form our own. To overcome this error, develop the habit of resisting the internal and external pressures and make up your own mind.
+
+Absolutism
 
 The belief that rules do not admit of exceptions. This belief causes us to demand that the truth be neat and simple, when in reality it is often messy and complex. To avoid this error, accept the truth as you find it rather than requiring that it fit your preconceptions.
 
-The belief that no view is better than any other, that any idea you choose to embrace is 
+Relativism 
+
+
+The belief that no view is better than any other, that any idea you choose to embrace is automatically correct. To avoid relativism, remind yourself that some ideas, and some standards of conduct, are better than others and that the challenge of critical thinking is to discover the best ones.
+
+Bias for or against change 
+
+Bias for change assumes that change is always for the best;bias against change assumes that change is always for the worst.To avoid both errors, give any proposal for change a fair hearing and decide, apart from your predisposition, whether the change is actually positive or negative. 
+
 Errors of Procedure
 
-Bias for or against change automatically correct. To avoid relativism, remind yourself that some ideas, and some standards of conduct, are better than others and that the challenge of critical thinking is to discover the best ones.
-
-Bias for change assumes that change is always for the best;
-
-bias against change assumes that change is always for the worst.
-
-To avoid both errors, give any proposal for change a fair hearing and decide, apart from your predisposition, whether the change is actually positive or negative. 
-
 The Error
+
+How to Recognize and Deal with It
 
 Biased consideration of evidence
 
+One form of this error is seeking evidence that confirms your bias and ignoring evidence that challenges it. Another is interpreting evidence in a way that favors your bias. To avoid this error, begin your investigation by seeking out individuals whose views oppose your bias, then go on to those whose views support it. Also, choose the most reasonable interpretation of the evidence.
+
 Double standard
-
-Hasty conclusion
-
-How to Recognize and Deal with It
-
-One form of this error is seeking evidence that confirms your bias and ignoring evidence that challenges it. Another is interpreting evidence in a way that favors your bias. To avoid this error, begin your investigation by seeking out individuals whose views oppose your bias, then go on to those whose 
-
-views support it. Also, choose the most reasonable interpretation of the evidence.
 
 Using one set of criteria for judging arguments we agree with and another standard for judging arguments we disagree with. To avoid this error, decide in advance what judgment criteria you will use and apply those criteria consistently, regardless of whether the data in question support your view.
 
-A premature judgment〞that is, a judgment made without sufficient evidence. To avoid 
-CHAPTER 13 The Errors in Combination 147
+Hasty conclusion
 
-Errors of Expression
+
+A premature judgment〞that is, a judgment made without sufficient evidence. To avoid drawing a hasty conclusion, identify all possible conclusions before you select any one. Then decide whether you have sufficient evidence to support any of those conclusions and, if so, which conclusion that is.
+
 
 Overgeneralization and stereotyping
 
-Oversimplification
-
-Post hoc fallacy drawing a hasty conclusion, identify all possible conclusions before you select any one. Then decide whether you have sufficient evidence to support any of those conclusions and, if so, which conclusion that is.
-
 Overgeneralization is ascribing to all the members of a group a quality that fits only some members. A stereotype is an overgeneralization that is rigidly maintained. To avoid these errors, resist the urge to force individual people, places, and things into hard categories. And keep in mind that the more limited your experience, the more modest your assertions should be.
+
+Oversimplification
 
 Oversimplification goes beyond making complex ideas easier to grasp〞it twists and distorts the ideas. Instead of informing people, oversimplification misleads them. To avoid this error, refuse to adopt superficial views and make a special effort to understand issues in their complexity.
 
-This error is rooted in the idea that when one thing occurs after another, it must be the result of the other, when in reality the sequence may be coincidental.
+Post hoc fallacy 
 
-To avoid the post hoc fallacy, withhold judgment of a causeand-effect relationship until you have ruled out other possible causes, including coincidence. 
+This error is rooted in the idea that when one thing occurs after another, it must be the result of the other, when in reality the sequence may be coincidental.To avoid the post hoc fallacy, withhold judgment of a causeand-effect relationship until you have ruled out other possible causes, including coincidence. 
+
+Errors of Expression
 
 The Error
+
+How to Recognize and Deal with It
 
 Contradiction
 
-How to Recognize and Deal with It
+To claim that a statement is both true and false at the same time in the same way. To avoid this error, monitor what you say and write. The moment you detect any inconsistency, examine it carefully. Decide whether it is explainable or whether it constitutes a contradiction. If it is a contradiction, revise your statement to make it consistent and reasonable.
 
-To claim that a statement is both true and false at the same time in the same way. To avoid this 
 Arguing in a circle
-
-Meaningless statement
-
-Mistaken authority
-
-False analogy
-
-Irrational appeal error, monitor what you say and write. The moment you detect any inconsistency, examine it carefully. Decide whether it is explainable or whether it constitutes a contradiction. If it is a contradiction, revise your statement to make it consistent and reasonable.
 
 Attempting to prove a statement by repeating it in a different form. To avoid this error, check your arguments to be sure you are offering genuine evidence and not merely repeating your claim.
 
+Meaningless statement
+
 A statement in which the reasoning presented makes no sense. To avoid this error, check to be sure that the reasons you offer to explain your thoughts and actions really do explain them.
+
+Mistaken authority
 
 Ascribing authority to someone who does not possess it. To avoid this error, check to be sure that all the sources you cite as authorities possess expertise in the particular subject you are writing or speaking about.
 
+False analogy
+
 An analogy is an attempt to explain something relatively unfamiliar by referring to something different but more familiar, saying, in effect, ※This is like that.§ A false analogy claims similarities that do not withstand scrutiny. To avoid this error, test your analogies to be sure that the similarities they claim are real and reasonable and that no important dissimilarities exist.
 
-Appeals to emotion, tradition, moderation, authority, common belief, and tolerance may be either rational or irrational.
+Irrational appeal 
+
+Appeals to emotion, tradition, moderation, authority, common belief, and tolerance may be either rational or irrational.They are irrational, and therefore unacceptable, when they are unreasonable in the particular situation under discussion and/or when they discourage thought. To avoid this error, make sure your appeals complement thought rather than substitute for it.
 
 
-CHAPTER 13 The Errors in Combination 149
+
+
 
 Errors of Reaction
 
-They are irrational, and therefore unacceptable, when they are unreasonable in the particular situation under discussion and/or when they discourage thought. To avoid this error, make sure your appeals complement thought rather than substitute for it.
 
 The Error
 
-Automatic rejection
-
-Changing the subject
-
-Shifting the burden of proof
-
-Straw man
-
 How to Recognize and Deal with It
+
+Automatic rejection
 
 The refusal to give criticism of your ideas (or behaviors) a fair hearing. To avoid this error, think of your ideas as possessions that you can keep or discard rather than as extensions of your ego. This will make you less defensive about them.
 
+Changing the subject
+
 Abruptly and deceptively turning a discussion away from the issue under discussion. To avoid this error, face difficult questions head-on rather than trying to avoid them.
+
+Shifting the burden of proof
 
 Demanding that others disprove our assertions. To avoid this error, understand that the burden of supporting any assertion rests with the person who makes it rather than the one who questions it. Accept the responsibility of supporting your assertions.
 
+Straw man
+
 To commit the error of straw man is to put false words in someone else＊s mouth and then expose their falsity, conveniently forgetting that the other person never said them. To avoid this error, be scrupulously accurate in quoting or paraphrasing other people＊s words.
 
+Attacking the critic 
+
+Attempting to discredit an idea or argument by disparaging the person who expressed it. To avoid attacking the critic, focus your critical thinking on ideas rather than on the people who express them.
 
 Sample Combinations of Errors
 
@@ -3424,10 +3325,7 @@ Let＊s reconstruct what happened in terms of the errors we have been studying. C
 
 EXAMPLE 2
 
-When Sam was thirteen years old, he didn＊t really want to smoke, but his friends goaded him into doing so. He took to it well, though, feeling more Attacking the critic Attempting to discredit an idea or argument by disparaging the person who expressed it. To avoid attacking the critic, focus your critical thinking on ideas rather than on the people who express them.
-
-
-CHAPTER 13 The Errors in Combination 151 like one of the guys with a cigarette dangling out of the corner of his mouth.
+When Sam was thirteen years old, he didn＊t really want to smoke, but his friends goaded him into doing so. He took to it well, though, feeling more like one of the guys with a cigarette dangling out of the corner of his mouth.
 
 As he progressed from an occasional cigarette to a pack-a-day habit, the cost became prohibitive, and he began to steal money from his parents to buy cigarettes. ※Hey, it＊s either that or do without,§ he reasoned, ※and I＊m not about to do without.§ 
 
@@ -3482,7 +3380,7 @@ Knowing the right terminology is advantageous, but more important is recognizing
 Applications 1. Each of the following passages suggests an error in thinking. Decide what error each suggests and explain your answer.
 
 a. In 1876, after learning of Alexander Graham Bell＊s patent for the telephone, a Western Union telegraph executive sent the following in-house memo: ※The ＆telephone＊ has too many shortcomings to be seriously considered as a means of communication. The device is inherently of no value to us.§1 
-CHAPTER 13 The Errors in Combination 153 b. Many years ago Dr. Wellington Koo, a respected Asian diplomat, attended a formal dinner and happened to be seated next to an American man who did not know him. When soup was served, the stranger said to Dr. Koo in a friendly voice, ※Likee soupee?§ Dr. Koo nodded in reply. Later, when the meal was finished, Dr. Koo was introduced, walked to the podium, and gave an eloquent presentation in perfect English. When he returned to his seat, he turned to the stranger and said, with a twinkle in his eye,
+ b. Many years ago Dr. Wellington Koo, a respected Asian diplomat, attended a formal dinner and happened to be seated next to an American man who did not know him. When soup was served, the stranger said to Dr. Koo in a friendly voice, ※Likee soupee?§ Dr. Koo nodded in reply. Later, when the meal was finished, Dr. Koo was introduced, walked to the podium, and gave an eloquent presentation in perfect English. When he returned to his seat, he turned to the stranger and said, with a twinkle in his eye,
 
 ※Likee speechee?§2 c. Psychological research reveals that human beings have a tendency ※to attribute the behavior of others to personality factors and that of ourselves to situational factors.§ In other words, if someone else acts offensively, we believe that is the way he or she is, whereas when we act offensively, we say we had no choice under the circumstances.3 2. In 1903 Mercedes automobile executives reasoned that the total worldwide demand for automobiles would never exceed a million vehicles because the number of people capable of being chauffeurs would never exceed that number.4
 
@@ -3512,11 +3410,7 @@ a. When Alabama prisons and jails became seriously overcrowded, a U.S.
 
 district judge ordered that more than three hundred convicts be granted early release. The group included murderers, rapists, and repeat offenders. The judge＊s argument was that serious overcrowding in prisons and jails is a violation of prisoners＊ rights against ※cruel and unusual punishment.§6 Do you share the judge＊s view?
 
-b. U.S. law has accorded most charitable and educational groups tax-exempt status as long as they refrain from lobbying activities. However, veterans＊
-
-groups like the American Legion and the Veterans of Foreign Wars traditionally were regarded as exceptions; that is, they were permitted to lobby extensively on issues such as the ratification of the Panama Canal treaties,
-
-Alaskan national parks, national security, and Saturday mail delivery (as well as issues more directly involving veterans) without jeopardizing their tax-exempt status. Then in 1982 a federal appeals court eliminated special treatment for veterans＊ groups, arguing that it violated the equal protection guarantees of the Constitution.7 Do you agree with this court decision?
+b. U.S. law has accorded most charitable and educational groups tax-exempt status as long as they refrain from lobbying activities. However, veterans＊ groups like the American Legion and the Veterans of Foreign Wars traditionally were regarded as exceptions; that is, they were permitted to lobby extensively on issues such as the ratification of the Panama Canal treaties,Alaskan national parks, national security, and Saturday mail delivery (as well as issues more directly involving veterans) without jeopardizing their tax-exempt status. Then in 1982 a federal appeals court eliminated special treatment for veterans＊ groups, arguing that it violated the equal protection guarantees of the Constitution.7 Do you agree with this court decision?
 
 7. Evaluate the following arguments, following the approach you learned in Chapter 7. Take care to avoid the errors in thinking summarized in this chapter.
 
@@ -3534,10 +3428,7 @@ f. It＊s absurd to believe in life after death because no one has ever returned 
 
 g. Women in the military should be required to undergo the same physical training as are men. They also should not be exempted from frontline duty.
 
-h. Some years ago New York State Social Services officials directed local adoption agencies not to reject applicants solely because they were homosexual or had a history of alcoholism or drug abuse, a criminal record, a dependency on 
-
-
-CHAPTER 13 The Errors in Combination 155 welfare, or a severe emotional or physical handicap.8 I think this is outrageous.
+h. Some years ago New York State Social Services officials directed local adoption agencies not to reject applicants solely because they were homosexual or had a history of alcoholism or drug abuse, a criminal record, a dependency on welfare, or a severe emotional or physical handicap.8 I think this is outrageous.
 
 People who fall into any of these categories obviously are not fit to be parents, and child welfare agencies have an obligation to protect children from them.
 
@@ -3637,11 +3528,7 @@ How trustworthy am I? Can I keep a secret, or must I reveal it to at least one o
 
 How sensitive am I to the feelings of others? Do I ever purposely hurt others? Am I jealous of anyone? Do I enjoy causing trouble? Do I sow seeds of suspicion and dissension among people? Do I rush to spread the latest gossip? Do I talk behind friends＊ backs? Are my comments about others usually favorable or unfavorable? Do I criticize others＊ real or imagined faults as a means of boosting my own ego? Do I keep my promises? How tolerant am I of people＊s faults and mistakes?
 
-Am I truthful with other people? With myself? How objective am I in assessing my skills and talents? How intelligent am I? How studious am 158
-
-CHAPTER 14 Knowing Yourself 159
-
-I in school? How many different roles do I play with other people?
+Am I truthful with other people? With myself? How objective am I in assessing my skills and talents? How intelligent am I? How studious am I in school? How many different roles do I play with other people?
 
 Which of those roles are authentic? Which roles are masks designed to hide aspects of myself I would be ashamed or embarrassed to have others see? How reasonable are my plans for the future? Do I work well under pressure?
 
@@ -3701,9 +3588,6 @@ As important as the foregoing questions are, one question is considerably more i
 
 3. Whenever you address an issue, anticipate what problems are likely to undermine your thinking at each stage of the thinking process and make a conscious effort to resist their influence.
 
-
-CHAPTER 14 Knowing Yourself 161
-
 Challenge and Reward
 
 It is one thing to understand the steps necessary to improving your thinking and quite another to use them effectively. The latter task is a formidable challenge that will take continuing effort over a long period of time.
@@ -3736,8 +3620,7 @@ f. Some educators are urging that colleges become more selective than they have 
 
 g. An outstanding senior English major (with a 3.7 grade point average out of a possible 4.0) at Princeton University submitted an analysis of a novel for her Spanish American literature course. Her professor determined that the paper was plagiarized〞that is, that it was copied, virtually word for word, from a scholarly reference work without proper acknowledgments. The student subsequently claimed she had committed only a ※technical error.§ The case was referred to a faculty-student committee on discipline, which, after a hearing, recommended withholding the student＊s degree for one year and notifying the law schools to which she had applied of the details of the decision. Believing the penalty to be too harsh, the student took the matter to court.6Do you believe the committee＊s decision was too harsh?
 
-h. A federal court has ruled that Christmas (like Hanukkah, Easter, and Passover) may be observed in the public schools as a cultural event but not as a religious holiday. Educational lawyers interpret that as meaning that songs like ※Silent Night§ may be sung in a class learning about 
-CHAPTER 14 Knowing Yourself 163 religious customs or in a music appreciation class but not as a religious celebration.7 Do you support the idea of banning all religious celebrations from the schools in this manner?
+h. A federal court has ruled that Christmas (like Hanukkah, Easter, and Passover) may be observed in the public schools as a cultural event but not as a religious holiday. Educational lawyers interpret that as meaning that songs like ※Silent Night§ may be sung in a class learning about religious customs or in a music appreciation class but not as a religious celebration.7 Do you support the idea of banning all religious celebrations from the schools in this manner?
 
 i. When Elizabeth Taylor learned that a TV movie based on her life was in preparation, she went to court to block its production, claiming that the so-called docudrama was ※simply a fancy new name for old-fashioned invasion of privacy, defamation, and violation of an actor＊s rights.§8
 
@@ -3764,9 +3647,7 @@ Noticing these things can help us decide which areas are sensitive for people, w
 
 When they are listening, people give certain signals to indicate approval or disapproval of what is being said. An occasional nodding of the head, an encouraging smile, even a low ※uh-huh§ of assent all signal
 
-※I＊m in agreement with you.§ On the other hand, a slight shaking of the head, a raising of the eyebrows, a pursing of the lips as the eyes roll upward, or a frown all suggest at least partial disagreement. Similarly, people who are bored with a discussion will usually betray their boredom 164
-
-CHAPTER 15 Being Observant 165 even if they are trying not to. The way they glance at their watches, sigh resignedly, turn their attention to someone or something outside the expected focus, nervously fidget with an article of their clothing, or frequently shift position communicates their wish to change the subject or their companions.
+※I＊m in agreement with you.§ On the other hand, a slight shaking of the head, a raising of the eyebrows, a pursing of the lips as the eyes roll upward, or a frown all suggest at least partial disagreement. Similarly, people who are bored with a discussion will usually betray their boredom even if they are trying not to. The way they glance at their watches, sigh resignedly, turn their attention to someone or something outside the expected focus, nervously fidget with an article of their clothing, or frequently shift position communicates their wish to change the subject or their companions.
 
 A great deal can be told from even a simple exchange of greetings by two people passing each other. Merely the tone in which the greeting is expressed can suggest whether the people like and respect each other and whether they consider each other equals. Few of these reactions, however subtle, are missed by observant people. And, as might be obvious, aside from its benefits to thinking, careful attention is a great aid in making people more sensitive to and thoughtful of others.
 
@@ -3797,8 +3678,7 @@ The Range of Application
 
 Countless examples of the benefits of close observation could be cited in every field of study and work. Physicist Richard Feynman, for example, had extraordinary curiosity〞as he put it, a ※puzzle drive.§ From early youth he was fascinated with all kinds of puzzles from math problems to Mayan hieroglyphics, and when he ran out of prepared ones, he constructed his own. He observed paramecia through his microscope and learned things that contradicted the prevailing wisdom. He laid out food trails for ants and then studied their behavior.
 
-Once, while sitting in the Cornell University cafeteria, Feynman noticed a student tossing a plate in the air; the plate wobbled, and the red Cornell medallion on it rotated. But one particular detail intrigued him〞the medallion on the plate was rotating significantly faster than 
-CHAPTER 15 Being Observant 167 the plate was wobbling. Why the difference? he wondered. Fascinated, he wrestled with the problem; constructed an equation that expressed the relationship of angle, rotation, and wobble; and worked out ※the motion of the mass particles.§ When he told an associate about his findings, the associate dismissed them as unimportant. But Feynman explored the wobble phenomenon more deeply, and what had begun as a playful exercise in curiosity eventually won him the Nobel Prize for physics!4
+Once, while sitting in the Cornell University cafeteria, Feynman noticed a student tossing a plate in the air; the plate wobbled, and the red Cornell medallion on it rotated. But one particular detail intrigued him〞the medallion on the plate was rotating significantly faster than the plate was wobbling. Why the difference? he wondered. Fascinated, he wrestled with the problem; constructed an equation that expressed the relationship of angle, rotation, and wobble; and worked out ※the motion of the mass particles.§ When he told an associate about his findings, the associate dismissed them as unimportant. But Feynman explored the wobble phenomenon more deeply, and what had begun as a playful exercise in curiosity eventually won him the Nobel Prize for physics!4
 
 Other examples of the value of observation include the following:
 
@@ -3839,8 +3719,6 @@ Observation will sometimes, by itself, bring valuable insights. But you can incr
 
 Review what you have seen and heard during the past twenty-four hours. Ask yourself what they mean, how they relate to other important matters, and how you can use them to improve yourself or to spur achievement.
 
-
-CHAPTER 15 Being Observant 169
 
 Let＊s say that you heard this proverb earlier today: ※To be content with little is difficult; to be content with much, impossible.§ Reflecting on it might lead you to the conclusion that popular culture＊s emphasis on possessing things〞new cars, stylish clothes, and so on〞is a false value, that material wealth can never guarantee happiness.
 
@@ -3934,8 +3812,7 @@ Sample Issue: Pornography
 
 The word pornography is from a Greek word meaning ※writing about prostitutes.§ Its modern definition, however, has no direct connection to prostitution. Pornography is any written, visual, or auditory material that is sexually explicit, although power and violence are frequently recurring 
 
-subthemes. The opponents of pornography are diverse and include political 
-CHAPTER 16 Selecting an Issue 173 conservatives, religious groups, and feminists. The controversy that has always surrounded pornography has intensified in recent years. Among the reasons are the increase in sex and violence in movies and television and the appearance of pornographic materials on the Internet. The central question in the current debate over pornography is the same as it has been in decades, indeed centuries, past: Is pornography harmful?
+subthemes. The opponents of pornography are diverse and include political conservatives, religious groups, and feminists. The controversy that has always surrounded pornography has intensified in recent years. Among the reasons are the increase in sex and violence in movies and television and the appearance of pornographic materials on the Internet. The central question in the current debate over pornography is the same as it has been in decades, indeed centuries, past: Is pornography harmful?
 
 Aspect
 
@@ -4012,8 +3889,7 @@ Exactly what effect does a punch have on the human body, particularly the brain?
 
 Sample Issue: Juvenile Crime
 
-For much of this century, juvenile criminals have been accorded special treatment in the courts. Because the emphasis was on rehabilitating rather than punishing them, the charges were different (※juvenile delinquency§ rather 
-CHAPTER 16 Selecting an Issue 175 than assault or murder), as were the proceedings and disposition of the cases
+For much of this century, juvenile criminals have been accorded special treatment in the courts. Because the emphasis was on rehabilitating rather than punishing them, the charges were different (※juvenile delinquency§ rather than assault or murder), as were the proceedings and disposition of the cases
 
 (※hearings§ rather than trials, sealed records rather than publicity, and lectures rather than imprisonment). In recent years, however, the public has become dissatisfied with that system. Many people are demanding that juveniles who have committed criminal acts be treated as criminals, regardless of their age. The broad issue is usually expressed in these terms: Should juvenile criminals be treated the same as adult criminals? However, like the other issues we have examined in this chapter, this broad issue has a number of aspects:
 
@@ -4062,15 +3938,11 @@ Narrowing the Issue Further
 
 If you follow the above approach and find that even the individual aspects are too broad to treat adequately in the time and space at your disposal, look for an aspect that can be divided and focus on one part of it. (Not all aspects lend themselves to such division, but in most cases you will find some that do.) Here are some examples from the issue of pornography discussed above.
 
-By limiting the scope of your treatment, you not only ensure a clearer focus and increase the odds of staying within your competency, you also make the task of analysis more manageable. The fewer matters that are competing for your attention, the less the danger of becoming distracted or confused. Even on those rare occasions when you are able to address more than a single subissue, careful identification of all of them will make your inquiry more orderly and purposeful. Finally, limiting your treatment will lessen the chance of your oversimplifying complex matters.
-
 Aspect
 
 Themes
 
-Alleged 
-
-harmful effects
+Alleged harmful effects
 
 Questions
 
@@ -4098,8 +3970,7 @@ You might focus on one of the four questions rather than all four. If you choose
 
 Similarly, if you choose the second question, you might select one of the three aspects rather than all three.
 
-
-CHAPTER 16 Selecting an Issue 177
+By limiting the scope of your treatment, you not only ensure a clearer focus and increase the odds of staying within your competency, you also make the task of analysis more manageable. The fewer matters that are competing for your attention, the less the danger of becoming distracted or confused. Even on those rare occasions when you are able to address more than a single subissue, careful identification of all of them will make your inquiry more orderly and purposeful. Finally, limiting your treatment will lessen the chance of your oversimplifying complex matters.
 
 Applications 1. Apply the approach explained in this chapter to two of the following issues. Be sure to select issues that interest you, because applications in subsequent chapters will build on this one.
 
@@ -4168,11 +4039,7 @@ and consult the tax experts for their interpretations of the more complicated as
 
 Working with Inconclusive Results
 
-Because the state of human knowledge is imperfect, not every question is answerable when it is asked. Some issues remain unresolved for years, even centuries. Before we traveled into outer space, no one knew exactly what the effects of weightlessness on the human body would be. Many respected doctors argued that the rapid acceleration at 
-
-178
-
-CHAPTER 17 Conducting Inquiry 179 blast-off would increase an astronaut＊s heartbeat to a fatal level. (There was strong medical evidence to support this view.) Others believed that weightlessness would cause vital organs to malfunction and atrophy.1 Both dire predictions proved mistaken, but any inquiry into the issue undertaken before the first successful launch would necessarily have been incomplete.
+Because the state of human knowledge is imperfect, not every question is answerable when it is asked. Some issues remain unresolved for years, even centuries. Before we traveled into outer space, no one knew exactly what the effects of weightlessness on the human body would be. Many respected doctors argued that the rapid acceleration at blast-off would increase an astronaut＊s heartbeat to a fatal level. (There was strong medical evidence to support this view.) Others believed that weightlessness would cause vital organs to malfunction and atrophy.1 Both dire predictions proved mistaken, but any inquiry into the issue undertaken before the first successful launch would necessarily have been incomplete.
 
 Which mountain in the Sinai desert did Moses really climb? The Bible gives it a name (actually two names), but scholars differ on where it is located. Strong claims are advanced for three different mountains in three countries. No conclusive answer has been reached despite more than three thousand years of inquiry.2
 
@@ -4210,7 +4077,7 @@ Many reference books are available, including the Oxford English Dictionary (OED
 *Remember that background reading, though a helpful start toward analyzing an issue, is never an acceptable substitute for analysis. Your instructor will expect more from you than simply background information.
 
 
-CHAPTER 17 Conducting Inquiry 181
+
 
 ARTICLES IN NEWSPAPERS, MAGAZINES, AND JOURNALS
 
@@ -4270,13 +4137,7 @@ After you locate the article and read it, be sure to check the reader response i
 
 BOOKS
 
-In addition to the lists of books provided in encyclopedias and those you find mentioned in the articles you read, you can consult your library＊s card or computer catalog, the key to the books available on its shelves.? Occasionally, if your library is small or if the issue you are investigating is obscure, the library holdings may be limited. In such
-
-*Before 1965 these indexes were combined under the title International Index. ?
-
-One valuable source of information is college textbooks in fields related to the issue you are investigating.
-
-cases, as in any situation in which you are having difficulty finding information or using the reference books, ask your librarian for help.
+In addition to the lists of books provided in encyclopedias and those you find mentioned in the articles you read, you can consult your library＊s card or computer catalog, the key to the books available on its shelves.? Occasionally, if your library is small or if the issue you are investigating is obscure, the library holdings may be limited. In such cases, as in any situation in which you are having difficulty finding information or using the reference books, ask your librarian for help.
 
 (Remember that librarians are professionals trained to solve the kinds of research problems you may encounter.)
 
@@ -4294,8 +4155,7 @@ Ask your librarian about the computer databases available to you, such as PsycIN
 
 INTERNET RESOURCES
 
-In the 1970s the Defense Department began coordinating research networks. Then in the 1980s the personal computer began to gain popularity, 
-CHAPTER 17 Conducting Inquiry 183 and the research network system evolved into the Internet, also called the World Wide Web (WWW, or Web). Over the years it has become a major medium of communications and learning. All you need to access the Internet is a computer with a modem and an institutional or commercial Internet service provider (ISP).
+In the 1970s the Defense Department began coordinating research networks. Then in the 1980s the personal computer began to gain popularity, and the research network system evolved into the Internet, also called the World Wide Web (WWW, or Web). Over the years it has become a major medium of communications and learning. All you need to access the Internet is a computer with a modem and an institutional or commercial Internet service provider (ISP).
 
 Millions of Web sites are available, but you must know the address of a site before you can access it. Also〞and this is especially important〞you must enter the address exactly. (An added space or period or letter will prevent you from reaching the site.) Most Web addresses begin as follows: http://www. (If you see a Web address beginning with www, understand that this is an abbreviation and you may have to add the first part of the address to access the site.) If you don＊t know what site is appropriate or have forgotten a Web address, you can consult one of the many available search engines, such as www.askjeeves.com.
 
@@ -4336,32 +4196,15 @@ A word of caution: When a listing proves to be helpful, be sure to copy its addr
 
 For a variety of opinions on controversial issues:
 
-http://www.townhall.com/columnists http://www.nytimes.com/pages/opinion/columns http://www.washingtonpost.com/wp-dyn/opinion/columns http://www.jewishworldreview.com http://www.blueagle.com
-
 For a variety of research tools and helpful links:
-
-http://www.ask.com/?q=&qsrc=119#subject:ask|pg:1
 
 For historical matters:
 
-http://www.besthistorysites.net/
-
 For legal matters:
-
-http://www.law.com http://www.nolo.com/legal-encyclopedia/
-
-http://www.legalengine.com
 
 For medical matters:
 
-http://www.merckhomeedition.com http://www.webmd.com 
-CHAPTER 17 Conducting Inquiry 185 http://www.cdc.gov http://www.medlineplus.gov
-
 For checking hoaxes, rumors, and general facts/fictions:
-
-http://www.snopes.com http://www.hoax-slayer.com http://www.casewatch.org/index.html http://www.truthorfiction.com http://urbanlegends.about.com/od/internet/a/current_netlore.htm http://www.scambursters.org/legends.html http://urbanlegends.miningco.com/culture/urbanlegends/library/
-
-blhoax.htmpid=2733&cob=home
 
 Whenever you find a helpful Web site, add it to this resource list.
 
@@ -4393,8 +4236,7 @@ Be sure to check the amount and kind of evidence the source offers for each impo
 
 What criticisms have been made, or could be made, of the source＊s assertions and evidence? How worthy are those criticisms? Unless you happen to be well versed in the subject under discussion, you will have to consult other sources to answer these questions. In some cases, you will find criticisms that have sufficient merit to affect your judgment. Consider the ※Birthers§ assertion that Barack Obama was born in a foreign country and is therefore not qualified to be president of the United States.
 
-One particularly interesting fact offered by critics of this assertion and 
-CHAPTER 17 Conducting Inquiry 187 supported by photographic evidence is that an announcement of Obama＊s birth appeared in a Hawaiian newspaper at that time. In order for Obama＊s parents to have faked the announcement, they would have had to foresee the possibility of his candidacy forty-seven years later! Because that is impossible to imagine, the birth announcement poses a strong argument against the ※Birther§ assertion.
+One particularly interesting fact offered by critics of this assertion and supported by photographic evidence is that an announcement of Obama＊s birth appeared in a Hawaiian newspaper at that time. In order for Obama＊s parents to have faked the announcement, they would have had to foresee the possibility of his candidacy forty-seven years later! Because that is impossible to imagine, the birth announcement poses a strong argument against the ※Birther§ assertion.
 
 As you review your answers to these questions and decide on the reliability of your information sources, keep in mind that even honest, conscientious people can make mistakes. Distinguish carefully between sources that happen to be mistaken on an issue and those whose mistakes are so numerous or egregious that they suggest dishonesty or the habit of carelessness.
 
@@ -4425,13 +4267,6 @@ Because the aim of inquiry is to produce evidence, it will be helpful to recall 
 3. In all other cases, the evidence must be considered insufficient. In other words, if the evidence does not show one view to be more reasonable than competing views, the only prudent course of action is to withhold judgment until sufficient evidence is available. Such restraint can be difficult, especially when you want a particular view to be proved superior, but restraint is an important characteristic of the critical thinker.
 
 Exactly how much inquiry is enough depends entirely on the issue. In some cases, a brief inquiry will be more than adequate. In others, an exhaustive inquiry will be incomplete. However, although no absolute statement can be made about the amount of inquiry required, you can be reasonably sure your inquiries are complete when you have made a thorough and careful effort to learn the relevant facts and to consult informed opinion in all fields of study that have a direct bearing on the specific issue you are analyzing. The number of fields to be researched will, of course, vary with the nature of the issue. Here, for example, is a list of the fields that have a direct bearing on three specific issues we identified in Chapter 16:
-
-
-CHAPTER 17 Conducting Inquiry 189
-
-One of the greatest challenges to critical thinking is the temptation to stop inquiring when you find a knowledgeable person who supports your bias. The temptation will be especially strong when that person is the first one you encounter. You will want to say, ※This is the definitive answer. Case closed!§ If you follow this inclination, you will trivialize the issue and cheat yourself of genuine understanding. An issue is, by definition, a matter about which informed, careful thinkers may disagree.
-
-A caution is in order here: To say that it is important to examine both sides of an issue does not mean that both sides are equal in merit. Often there will be enough merit on each side to make judgment difficult, but that never justifies the avoidance of judgment.
 
 Issue
 
@@ -4482,6 +4317,12 @@ Medicine
 Ethics 
 
 Law 
+
+One of the greatest challenges to critical thinking is the temptation to stop inquiring when you find a knowledgeable person who supports your bias. The temptation will be especially strong when that person is the first one you encounter. You will want to say, ※This is the definitive answer. Case closed!§ If you follow this inclination, you will trivialize the issue and cheat yourself of genuine understanding. An issue is, by definition, a matter about which informed, careful thinkers may disagree.
+
+A caution is in order here: To say that it is important to examine both sides of an issue does not mean that both sides are equal in merit. Often there will be enough merit on each side to make judgment difficult, but that never justifies the avoidance of judgment.
+
+
 Managing Lengthy Material
 
 Often your inquiry will take you beyond editorials and brief essays to full-length articles and books. These longer works are more difficult to evaluate because the core arguments are seldom presented neatly and compactly. The authors of these arguments do not intend to make analysis difficult〞it is simply the nature of the writing process. Responsible authors of journal articles and books do not merely present lists of bald assertions; they support their views with evidence. They also add sufficient explanation to satisfy the demands of clarity and define the path their reasoning has taken. Sometimes the path has numerous turns, so secondary assertions must be added to complement and refine primary ones. As anecdotes multiply, as experimental and statistical data are reported and annotated, and as testimony is detailed, the essential argument can become almost as concealed as the hidden premises it sometimes contains. One premise may be stated on page 2, another on page 5, and the conclusion on page 12. Before you can evaluate the argument in these cases, you need to consolidate it. Here is a strategy for doing so:
@@ -4501,7 +4342,7 @@ Subheadings usually signal important assertions, as do capital letters, boldface
 4. Note the amount, kinds, and sources of evidence used to support the assertions. Chapter 6 discussed numerous kinds of evidence. Review that chapter, if necessary.
 
 5. Notice the conditions the author includes. Saying, for example, ※Drug pushers should be given long jail terms if they are not themselves drug users and have been previously convicted of drug pushing§ is very different from saying, ※Drug pushers should be given long jail terms.§ The ※if§ clause adds a special set of conditions. Similarly, saying, ※The United States should never fire a nuclear missile at another 
-CHAPTER 17 Conducting Inquiry 191 country unless first subjected to nuclear attack by that country§ is quite different from saying, ※The United States should never fire a nuclear missile at another country.§ Expressions like if, unless, as long as, until, and before can significantly alter the meaning of an assertion.
+ country unless first subjected to nuclear attack by that country§ is quite different from saying, ※The United States should never fire a nuclear missile at another country.§ Expressions like if, unless, as long as, until, and before can significantly alter the meaning of an assertion.
 
 6. Compose an accurate summary of the article or book from your analysis in steps 1每5. This enables you to focus your attention and analyze the argument.
 
@@ -4538,10 +4379,6 @@ The strategy we have discussed for thinking critically about issues is designed 
 
 It is a popular view that the more scientific the procedure, the less need for evaluation. But that view is mistaken. Scientific procedures generate or discover factual information that must be classified and interpreted in order to be meaningful. Consider, for example, this unusual case. An ancient tomb was unearthed in central China containing the body of a woman who died about 2100 years ago. Great care had been taken in burying her. She was placed in an airtight coffin filled with a special fluid. The coffin was encased in five larger boxes lined with five tons of charcoal. That larger unit was buried in a sixty-foot hole and surrounded by white clay.
 
-192
-
-CHAPTER 18 Forming a Judgment 193
-
 Because of this extraordinary burial, when the woman＊s body was found, the flesh was still moist, the hair still rooted in the scalp, the joints still flexible, and most of the internal organs intact. Specialists conducted a careful autopsy. They performed chemical analyses of the woman＊s hair, stomach, muscles, bones, lungs, gallbladder, and intestines. They X-rayed her bones. To be useful, however, the mass of facts they obtained had to be interpreted. Only by studying the data, raising questions about it, and deciding what judgments were most reasonable did they conclude, for example, that she had borne children, had eaten a melon shortly before her death, and probably had died suddenly as the result of an obstructed coronary artery.1
 
 Evaluation plays an important role not only in science but also in other fields. In fact, because in other areas the information may be less clear or more fragmentary and opinions may be more sharply in conflict, the quality of a judgment may depend even more heavily on evaluation.
@@ -4564,6 +4401,18 @@ Eyewitness testimony
 
 Celebrity testimony
 
+Expert opinion
+
+Experiment
+
+Statistics
+
+Survey
+
+Formal observation
+
+Research review
+
 The Questions
 
 Are the experiences typical or atypical?
@@ -4580,24 +4429,7 @@ What circumstances since the event could have affected his or her recollection?
 
 For advertisements or infomercials, is the celebrity a paid spokesperson?
 
-For talk show comments, does the 
-One additional question is applicable to all kinds of evidence: Is this evidence relevant to the issue under consideration? If it is not relevant, it deserves no consideration, no matter how excellent it may be in other respects.
-
-Evaluating Your Sources＊ Arguments*
-
-In addition to evaluating the evidence you have obtained, you must examine the arguments others have advanced. Chapter 7 explained a helpful way to deal with arguments that are longer than a paragraph:
-
-Expert opinion
-
-Experiment
-
-Statistics
-
-Survey
-
-Formal observation
-
-Research review celebrity offer any support for his or her views〞for example, citing research conducted by more qualified people? Also, does the host ask for such support?
+For talk show comments, does the celebrity offer any support for his or her views〞for example, citing research conducted by more qualified people? Also, does the host ask for such support?
 
 Does the person have specific expertise in the particular issue under discussion? Does the expert support his or her view with references to current research? Do other authorities agree or disagree with the expert＊s view?
 
@@ -4613,14 +4445,15 @@ Could the observer＊s presence have distorted what occurred? Was the observation
 
 Do the reviewer＊s conclusions seem reasonable given the research covered in the review? Has the reviewer omitted any relevant research?
 
-*See Chapter 7, pages 89每94.
+One additional question is applicable to all kinds of evidence: Is this evidence relevant to the issue under consideration? If it is not relevant, it deserves no consideration, no matter how excellent it may be in other respects.
 
+Evaluating Your Sources＊ Arguments*
 
-CHAPTER 18 Forming a Judgment 195 condensing them to more manageable length by composing a summary.
+In addition to evaluating the evidence you have obtained, you must examine the arguments others have advanced. Chapter 7 explained a helpful way to deal with arguments that are longer than a paragraph:
+
+condensing them to more manageable length by composing a summary.
 
 Chapter 17 offered detailed instructions for doing so effectively. Let us now see how to use a summary to evaluate an argument. The first summary we will examine is the one presented in Chapter 17.* For ease of reference, each sentence in the summary is numbered, and the questions that apply to it are numbered correspondingly.
-
-*See Chapter 17, pages 184每185.
 
 The Summary 1. One of the biggest obstacles to learning〞in grade school, high school, and college〞is grades.
 
@@ -4669,8 +4502,7 @@ The Analysis 1. Is the husband a homophobe who is apprehensive about his own sex
 
 3. No reasonable person would dispute this idea.
 
-
-CHAPTER 18 Forming a Judgment 197 4. The woman should discuss the situation fully with her husband and encourage him to examine his feelings rationally.
+ 4. The woman should discuss the situation fully with her husband and encourage him to examine his feelings rationally.
 
 5. Such an approach could help the husband gain greater insight into the problem.
 
@@ -4686,7 +4518,9 @@ something?
 
 6. Is counseling likely to be more successful if one partner begins with the conviction that he or she is entirely right and the other person is wrong?
 
-7. Is maintaining a friendship necessarily more important than saving a marriage? Is more information than is provided in the reader＊s letter needed before concluding that the friendship in this case is worth more than the marriage? Wouldn＊t it be helpful to know how long the couple has been married; whether they have children, and, if so, what ages; and whether their relationship was harmonious before this situation arose? (If the husband cherished her companionship, is it not possible that he is more motivated by feelings of neglect and loss than by homophobia?) Is it reasonable for Dr. Brothers to assume the woman is being fair to her husband and he is being unreasonable without 
+7.Is maintaining a friendship necessarily more important than saving a marriage? Is more information than is provided in the reader＊s letter needed before concluding that the friendship in this case is worth more than the marriage? Wouldn＊t it be helpful to know how long the couple has been married; whether they have children, and, if so, what ages; and whether their relationship was harmonious before this situation arose? (If the husband cherished her companionship, is it not possible that he is more motivated by feelings of neglect and loss than by homophobia?) Is it reasonable for Dr. Brothers to assume the woman is being fair to her husband and he is being unreasonable without knowing how often, at what times of the day, and for how long the woman talks on the phone to her gay friend? What if both husband and wife work and share responsibility for housework and parenting, but she now spends hours on the telephone every evening? Would not the best advice in that case be for her to get counseling and find out what＊s wrong with her?
+
+
 As the examples demonstrate, taking time to ask appropriate questions has several benefits. First, it prevents you from judging hastily, on the basis of first impressions. Second, it allows you to evaluate each part of the argument individually (rather than settling for an overall evaluation) and thus to identify both strengths and weaknesses. Finally, taking the time to ask appropriate questions often provides a structure around which to arrange your thoughts.
 
 The answers you develop to your questions make up your response to the argument. If you write out your response, you can either follow the order of your questions or choose another organizational pattern. The decision depends on what arrangement will both achieve coherence and provide the emphasis you intend.
@@ -4697,12 +4531,7 @@ Still another important consideration in evaluating evidence and arguments is ma
 
 1. Between the person and the idea. It＊s easy to confuse the person with the idea. Just as we tend to overlook the faults of our friends and exaggerate those of our enemies, so do we tend to look favorably on the ideas of people we like or admire and unfavorably on those we dislike or do not admire. Similarly, we tend to disregard the ideas of people who we feel ought not to have ideas on certain subjects〞for example, white scholars on African American history or men on women＊s issues. Such reactions are irrational because ideas are not synonymous with the people who hold them. Admirable people can be wrong, and despicable people can be right.
 
-Furthermore, a person＊s gender, color, nationality, or religion is not a proper basis for accepting or rejecting his or her ideas. It is possible for a man to be an authority on feminism (or for that knowing how often, at what times of the day, and for how long the woman talks on the phone to her gay friend? What if both husband and wife work and share responsibility for housework and parenting, but she now spends hours on the telephone every evening?
-
-Would not the best advice in that case be for her to get counseling and find out what＊s wrong with her?
-
-
-CHAPTER 18 Forming a Judgment 199 matter to be a feminist), a white scholar to have insights about African American history, and a Chinese Buddhist to make a valuable contribution to the subject of American Protestantism.
+Furthermore, a person＊s gender, color, nationality, or religion is not a proper basis for accepting or rejecting his or her ideas. It is possible for a man to be an authority on feminism (or for that matter to be a feminist), a white scholar to have insights about African American history, and a Chinese Buddhist to make a valuable contribution to the subject of American Protestantism.
 
 Therefore, we should make a conscious effort to keep our analyses of ideas separate from our feelings about the people who hold them.
 
@@ -4746,8 +4575,7 @@ Consider the case of Salman Rushdie＊s book The Satanic Verses. Many Muslims, co
 
 There is no question that freedom of expression is a worthy principle and that the extreme reaction of Khomeini and his followers to Rushdie＊s novel was totally unjustifiable. And that is precisely why it was so tempting for sensitive people to support Rushdie and condemn Khomeini without qualification. (Adding to that temptation was the fact that Khomeini had previously earned the enmity of Westerners.) Yet achieving intellectual balance means making a conscious effort to moderate our reactions even in the face of strong temptation to overstatement.
 
-At least a few writers displayed intellectual balance on this issue by reminding us that other principles are also important〞notably, the principle of respect for the religious beliefs of others. Columnist John Leo spoke of ※the fact that our [principle of tolerance] calls for a certain amount of deference and self-restraint in discussing other people＊s religious 
-CHAPTER 18 Forming a Judgment 201 beliefs.§3And Professor John Esposito observed that ※the First Amend-ment right doesn＊t mean you should automatically say everything you want to.§4
+At least a few writers displayed intellectual balance on this issue by reminding us that other principles are also important〞notably, the principle of respect for the religious beliefs of others. Columnist John Leo spoke of ※the fact that our [principle of tolerance] calls for a certain amount of deference and self-restraint in discussing other people＊s religious beliefs.§3And Professor John Esposito observed that ※the First Amendment right doesn＊t mean you should automatically say everything you want to.§4
 
 What made these views balanced is that they were made without denying the importance of freedom of speech and the outrageousness of Khomeini＊s threat.
 
@@ -4820,9 +4648,6 @@ People are no longer certain God exists.
 
 People no longer act as if God exists.
 
-
-CHAPTER 18 Forming a Judgment 203
-
 People no longer care whether God exists.
 
 People no longer accept some particular conception of God.
@@ -4867,9 +4692,6 @@ Moreover, feeling and intuition are natural, uncorrupted by artificial values an
 
 b. It is commonly accepted that the best way to improve the world and relations among its people is for everyone to curb his or her own self-interest and think of others. This concern with others is the basic idea in the Golden Rule and in most religions. It is, of course, questionable whether that goal is realizable. But, more important, it is mistaken. It is not selfishness but the pretense of altruism that sets person against person. If everyone looked out for himself or herself, and pursued his or her own interests, there would be not only less hypocrisy in the world but more understanding.
 
-
-CHAPTER 18 Forming a Judgment 205
-
 Each person would be aware of where everyone else stood in relation to him or her. And no one would be dependent on others.
 
 c. The institution of marriage has outlived its usefulness. More and more people today, particularly young people, are realizing that it makes more sense to have informal relationships. A couple should live together only as long as both individuals want to. Whenever one wants to end the relationship, he or she should be able to do so, neatly, without legal complications. This could be done if marriage were abolished. Everyone would benefit. People would retain their individual freedom and be able to fulfill their own need to develop as a person, responding to their own changing values and interests.
@@ -4897,10 +4719,6 @@ Guidelines for Persuasion
 
 Here are eleven guidelines for persuasion. Each is designed to help you overcome a specific challenge. The more faithfully you follow these guidelines, the more effective you will be in demonstrating the merit of your ideas.
 
-206
-
-CHAPTER 19 Persuading Others 207
-
 GUIDELINE 1: RESPECT YOUR AUDIENCE
 
 This guideline may sound idealistic, but it is eminently practical. If you believe the people you are trying to persuade are doltish or intellectually dishonest, you are bound to betray that belief, if not directly then indirectly in your tone or choice of words. Moreover, they will generally sense your disparaging view of them and feel hurt or resentful, hardly the kind of reaction that will make them open to persuasion.
@@ -4927,9 +4745,7 @@ Situation 2: You are writing for a single reader who has not, to your knowledge,
 
 Situation 3: You are writing not for a specific individual, but for all the people who hold an opposing view on the issue. This is the most commonly encountered situation in persuasive writing. Study what has been expressed by people who hold the opposing view. Look for frequently repeated arguments and themes. The more often a line of thought is expressed and the greater the number of people who express it, the more influential it is likely to have been in shaping people＊s views. The most influential errors in thinking represent the greatest challenge to persuasion.
 
-GUIDELINE 3: BEGIN FROM A POSITION YOU HAVE
-
-IN COMMON WITH YOUR READERS
+GUIDELINE 3: BEGIN FROM A POSITION YOU HAVE IN COMMON WITH YOUR READERS
 
 Beginning from a position of agreement with your reader is not an arbitrary requirement or a matter of courtesy or good form. It is a simple matter of psychology. If you begin by saying〞in effect, if not directly〞§Look here, you are wrong, and I＊m going to show you,§ you push your readers to defensive if not outright hostile reactions. They are likely to read the rest of your paper thinking not of what you are saying but of ways to refute it, concerned with measuring only the weaknesses of your argument. And if they are unreasonable and unbalanced in their reading, the fault will be more yours than theirs.
 
@@ -4937,8 +4753,7 @@ It is always difficult to find any points of agreement with someone whose views 
 
 I think students who fail out of this college should be allowed to apply for readmission because every student deserves a second chance. You have said that most readmits lack seriousness of purpose. But . . .
 
-This student was probably quite sure that he and his readers could agree on nothing. So he began with a head-on collision that wrecked his 
-CHAPTER 19 Persuading Others 209 chances to be persuasive. The readers＊ reaction, conscious or unconscious, undoubtedly was ※This student sees only his own biased position. He doesn＊t understand the complexity of the problem, doesn＊t consider the welfare of the total student body, apparently doesn＊t appreciate that a college education is not a right at all, but a privilege.§ Their reaction could be mistaken. The student might have been fully aware of all these considerations. But he failed to show his readers that he was. How much better an impression he would have made if he had begun like this:
+This student was probably quite sure that he and his readers could agree on nothing. So he began with a head-on collision that wrecked his chances to be persuasive. The readers＊ reaction, conscious or unconscious, undoubtedly was ※This student sees only his own biased position. He doesn＊t understand the complexity of the problem, doesn＊t consider the welfare of the total student body, apparently doesn＊t appreciate that a college education is not a right at all, but a privilege.§ Their reaction could be mistaken. The student might have been fully aware of all these considerations. But he failed to show his readers that he was. How much better an impression he would have made if he had begun like this:
 
 No one benefits〞neither teachers nor other students〞from the presence on campus of students for whom college means merely fun, or a rest, or a chance to make social contacts. Such students take up precious time and space, and usually serve only to distract more serious students. They fail in most cases to realize that a college education is a privilege that they must continue to earn, not an inviolable right. I agree that this college has its share of such students.
 
@@ -4960,9 +4775,9 @@ Gun control legislation
 
 (b) denies citizens the most effective means of protecting self and property at a time when assaults on both are commonplace, (c) violates the U.S. Constitution.
 
-Responses to Article 1. Gun control legislation does not penalize the law-abiding more than the lawless. It does not deny citizens the most effective means of protection.
+Responses to Article 1. Gun control legislation does not penalize the law-abiding more than the lawless. It does not deny citizens the most effective means of protection.It does not really violate the U.S. Constitution.
 
-It does not really violate the U.S. Constitution.
+2. Gun control legislation discourages crime by making the mere possession of a gun an offense of some gravity. It stresses the role of the police, rather than the individual, in law enforcement. It follows the spirit, if not the letter, of the U.S. Constitution.
 
 
 Both responses disagree with the article on each of the three points it raised. But the first merely tears down the article＊s position; the second builds another position. In effect, the first says to the writer, ※You are wrong, you are wrong, you are wrong§; the second says, ※Here is another view.§ Whenever you can avoid direct refutation〞that is, whenever you can effectively present and support your own views without direct reference to your reader＊s opposing views〞do so.
@@ -4985,10 +4800,6 @@ The student who wrote the following passage made a similar mistake:
 
 If others treat us with respect and admiration we will become more respectable and admirable.
 
-2. Gun control legislation discourages crime by making the mere possession of a gun an offense of some gravity. It stresses the role of the police, rather than the individual, in law enforcement. It follows the spirit, if not the letter, of the U.S. Constitution.
-
-
-CHAPTER 19 Persuading Others 211
 
 This student overstated the effect. The respect and admiration of others may encourage us to be respectable and admirable, but it will certainly not make us so automatically. The costliness of the mistake is measured by the fact that the readers, who would have tended to agree with understatement, are likely to reject the whole idea because of the writer＊s careless use of force.
 
@@ -5033,8 +4844,7 @@ You realize that your readers probably have not seen this report and that it wou
 
 What should you do? If you have good reason to conclude that the report is not really relevant to the issue, it would be foolish to mention it.
 
-However, if you are convinced that it is relevant, honesty requires you to 
-CHAPTER 19 Persuading Others 213 mention it, deal with the questions it raises, and modify your position accordingly.
+However, if you are convinced that it is relevant, honesty requires you to mention it, deal with the questions it raises, and modify your position accordingly.
 
 GUIDELINE 8: DON＊T OVERWHELM YOUR READERS WITH ARGUMENTS
 
@@ -5067,9 +4877,9 @@ Political and/or practical
 
 Philosophic
 
-Arguments for
+Arguments for U.S. Involvement 
 
-U.S. Involvement 1. It is the moral obligation of the strong to protect the weak.
+1. It is the moral obligation of the strong to protect the weak.
 
 2. To stand by and do nothing while atrocities are committed is unethical.
 
@@ -5077,15 +4887,11 @@ U.S. Involvement 1. It is the moral obligation of the strong to protect the weak
 
 2. To refuse to stop tyranny is the same as encouraging it.
 
-A free nation has an obligation to stand 
+A free nation has an obligation to stand up for freedom everywhere.
 
-up for freedom 
+Arguments Against U.S. Involvement 
 
-everywhere.
-
-Arguments Against
-
-U.S. Involvement 1. The Judeo?Christian tradition says to return good for evil, love for hate.
+1. The Judeo?Christian tradition says to return good for evil, love for hate.
 
 2. Modern warfare punishes the victims as well as the perpetrators.
 
@@ -5101,8 +4907,7 @@ GUIDELINE 10: NEVER USE AN ARGUMENT YOU
 
 DO NOT BELIEVE IS SOUND OR RELEVANT
 
-This guideline should be understood as a qualification of the previous one. Sincerity and regard for the truth are among the most important characteristics of a writer. Without them there is no real persuasion, only 
-CHAPTER 19 Persuading Others 215 clever presentation. Therefore, if you truly believe that only one argument is worthy of consideration, then by all means use only that argument. This dilemma, however, is not likely to arise very often. In most cases, you will be able to choose among a variety of arguments without compromising your integrity.
+This guideline should be understood as a qualification of the previous one. Sincerity and regard for the truth are among the most important characteristics of a writer. Without them there is no real persuasion, only clever presentation. Therefore, if you truly believe that only one argument is worthy of consideration, then by all means use only that argument. This dilemma, however, is not likely to arise very often. In most cases, you will be able to choose among a variety of arguments without compromising your integrity.
 
 GUIDELINE 11: ALLOW TIME FOR YOUR VIEW TO GAIN ACCEPTANCE
 
@@ -5138,51 +4943,37 @@ An Unpersuasive Presentation
 
 A student chose to write a letter pointing out his complaints about the quality of the campus dining hall food and service. His reader was the dining hall manager, his task to impress the reader with his reasonableness and dispose her to reevaluate the performance of her staff.
 
+Violates Guideline 3 Doesn＊t begin on common ground
 
-How should the student have approached his subject and reader?
-
-First, he should have realized that the dining hall manager must be either a dishonest person, caring little whether she runs the dining hall well or poorly, or a conscientious person, anxious to make the operation efficient and excellent. If the student is convinced that the manager is dishonest, he would be wise not to write the composition for that reader at all but perhaps for the administrator to whom the manager reports.
-
-If, on the other hand, he is sure the manager is conscientious and experienced, he would have to acknowledge that (1) she is familiar with the frequency and exaggeration of student complaints that are almost a Violates Guideline 3
-
-Doesn＊t begin on common ground
+There is continuous discussion taking place on this campus about the dining hall. The students are disgusted with the poor quality of the food and service, and the dirty dishes and silverware. As a student,I would like to point out the reasons for complaining.
 
 Violates Guideline 5
 
 Sarcasm offends reader
 
+First, let us consider the quality of the food. The meat is either undercooked or overcooked. It is of such low quality that one wonders how it ever got on the market to be sold. The vegetables are completely tasteless, but this is all right because few students bother to eat them. Some students receive bonuses in their meals〞such as hair in their soup or dead flies in their potatoes. These are only a few examples of how poor the food is.
+
 No examples offered to support charge
 
-Violates Guideline 1
+Another complaint of students is the inefficient service. Because of the slow service, students often sit down to a cold meal. Many students have to skip their meals because they don＊t have time to wait.Some are driven to eat in local restaurants at extra expense.
 
+
+Violates Guideline 1
 Actually suggests bad intention (How can writer presume to know the intentions of staff when even the facts are in question?)
 
 Sarcasm offends reader
 
-Creates unfavorable impression on reader (judges administrators rashly)
+Perhaps the most common complaint is the dirty dishes and silverware the students are forced to use.I suppose everything goes through a dishwasher, but by some strange coincidence few things come out clean. However, the work staff don＊t worry about it〞 they just close their eyes to the dirt and pass the dishes and silverware on to the servers. Egg caked to the forks and pieces of meat stuck to the plate〞it certainly raises a student＊s spirits when he＊s eating two meals for the price of one!
 
-Shows disrespect toward reader (no admission that students occasionally do embellish facts)
-
-There is continuous discussion taking place on this campus about the dining hall. The students are disgusted with the poor quality of the food and service, and the dirty dishes and silverware. As a student,
-
-I would like to point out the reasons for complaining.
-
-First, let us consider the quality of the food. The meat is either undercooked or overcooked. It is of such low quality that one wonders how it ever got on the market to be sold. The vegetables are completely tasteless, but this is all right because few students bother to eat them. Some students receive bonuses in their meals〞such as hair in their soup or dead flies in their potatoes. These are only a few examples of how poor the food is.
-
-Another complaint of students is the inefficient service. Because of the slow service, students often sit down to a cold meal. Many students have to skip their meals because they don＊t have time to wait.
-
-Some are driven to eat in local restaurants at extra expense.
-
-Perhaps the most common complaint is the dirty dishes and silverware the students are forced to use.
-
-I suppose everything goes through a dishwasher, but by some strange coincidence few things come out clean. However, the work staff don＊t worry about it〞 they just close their eyes to the dirt and pass the dishes and silverware on to the servers. Egg caked to the forks and pieces of meat stuck to the plate〞it certainly raises a student＊s spirits when he＊s eating two meals for the price of one!
+Creates unfavorable impression on reader (judges administrators rashly).Shows disrespect toward reader (no admission that students occasionally do embellish facts)
 
 The question is, what can be done to correct these problems? Students have already issued their complaints to administrative officials, but this has done no good. These people appear to have turned their heads from the problem. It is clear that something must be done. A lot of revising is needed. But will there be any? You know as well as I do. NO!
 
+How should the student have approached his subject and reader?
 
-CHAPTER 19 Persuading Others 217 tradition on college campuses and (2) despite her efforts to find all the flaws in her operations, she is apparently unaware of several. If the student had examined carefully the complaints he thought were justified〞 the poor quality of the food, the dirt in the food, the slow service, and the dirty dishes and silverware〞he would have realized that they embrace the entire operation. Mentioning all of them was saying that nothing about the dining hall is acceptable〞and such a comprehensive statement would surely dispose the reader to reject the entire statement. Her natural
+First, he should have realized that the dining hall manager must be either a dishonest person, caring little whether she runs the dining hall well or poorly, or a conscientious person, anxious to make the operation efficient and excellent. If the student is convinced that the manager is dishonest, he would be wise not to write the composition for that reader at all but perhaps for the administrator to whom the manager reports.
 
-(human) reluctance to see the faults in her operation would not be overcome but reinforced. She would think, ※It＊s not possible that I＊ve failed to see all these problems. This student must just be a complainer.§
+If, on the other hand, he is sure the manager is conscientious and experienced, he would have to acknowledge that (1) she is familiar with the frequency and exaggeration of student complaints that are almost a tradition on college campuses and (2) despite her efforts to find all the flaws in her operations, she is apparently unaware of several. If the student had examined carefully the complaints he thought were justified〞 the poor quality of the food, the dirt in the food, the slow service, and the dirty dishes and silverware〞he would have realized that they embrace the entire operation. Mentioning all of them was saying that nothing about the dining hall is acceptable〞and such a comprehensive statement would surely dispose the reader to reject the entire statement. Her natural (human) reluctance to see the faults in her operation would not be overcome but reinforced. She would think, ※It＊s not possible that I＊ve failed to see all these problems. This student must just be a complainer.§
 
 A Persuasive Presentation
 
@@ -5223,8 +5014,7 @@ from one sheep to produce another sheep, genetically identical to the first. Som
 
 dictators could ensure that their rule was passed on, not just through their children but, in a sense, through themselves; (d) wealthy people could produce clones to be used for spare parts should they contract a disease. As these examples suggest, human cloning poses difficult legal and ethical questions, all of them arising from a single awesome fact〞the process would produce not robots but human beings! What is the wisest position for society to take on the issue of human cloning?
 
-2. Handgun sales continue to rise, indicating that many people believe having a weapon will ensure their safety. But many people argue that the easy availability of handguns is a major cause of violence. They argue that the United States 
-CHAPTER 19 Persuading Others 219 should follow the example of other countries and ban handguns. Which viewpoint is more reasonable?
+2. Handgun sales continue to rise, indicating that many people believe having a weapon will ensure their safety. But many people argue that the easy availability of handguns is a major cause of violence. They argue that the United States should follow the example of other countries and ban handguns. Which viewpoint is more reasonable?
 
 3. Some people argue that we would have better government if members of Congress were limited to a certain number of terms, say two or three. Disagreement over this issue continues to be sharp and spirited. Do the advantages of term limits outweigh the disadvantages?
 
@@ -5268,8 +5058,7 @@ What are some of those effects? Might they outweigh the benefits?
 
 Many object to this unequal treatment; others believe it is justified because men＊s teams traditionally have demonstrated a higher level of skill. Which view is more reasonable? What changes, if any, should be made in the distribution of funds?
 
-18. Compulsory education is so common today that we tend to forget it is a fairly recent historical development. However, some social critics are not only aware of its recency but also convinced it is no longer a sound idea. In their view children, even as young as six or eight, should be permitted a free choice of 
-CHAPTER 19 Persuading Others 221 whether they will study or not and, if they decide to do so, of what and where they will study. Among the important questions to be considered are these: Why was compulsory education begun? Was it a good idea then? Have the social conditions changed significantly since that time?
+18. Compulsory education is so common today that we tend to forget it is a fairly recent historical development. However, some social critics are not only aware of its recency but also convinced it is no longer a sound idea. In their view children, even as young as six or eight, should be permitted a free choice of whether they will study or not and, if they decide to do so, of what and where they will study. Among the important questions to be considered are these: Why was compulsory education begun? Was it a good idea then? Have the social conditions changed significantly since that time?
 
 19. Yale University＊s Dr. Jos谷 Delgado dramatized the effectiveness of electrical stimulation of the brain (ESB) as a means of controlling behavior. He demonstrated that by ※wiring§ the brain of a fighting bull and merely pushing a button that transmits an electrical charge to the animal＊s brain, he can stop it in the middle of an enraged charge. He also established that repeated electrical stimulation diminishes a bull＊s natural aggressiveness. Similar experiments have shown that chemical stimulation of the brain (CSB) by the strategic placement of tiny tubes of time-released substances is similarly effective. Some people believe it would be desirable to use these techniques on criminals or mental patients or students with certain impediments to learning. Others see any such use as an Orwellian nightmare. What might be the dangers of the use of such techniques on humans?
 
@@ -5311,8 +5100,7 @@ Is this practice morally right? Does your answer depend on the seriousness of th
 
 Should the law be changed? Why or why not?
 
-34. Fear of contracting HIV/AIDS has caused people to behave in untypical ways. For example, many refuse to have any social contact with a friend who has 
-CHAPTER 19 Persuading Others 223 contracted the disease. Dentists and doctors have refused to work on patients with the disease. Undertakers have refused to embalm victims. Is such behavior justifiable?
+34. Fear of contracting HIV/AIDS has caused people to behave in untypical ways. For example, many refuse to have any social contact with a friend who has contracted the disease. Dentists and doctors have refused to work on patients with the disease. Undertakers have refused to embalm victims. Is such behavior justifiable?
 
 35. To some people the Asian practice of acupuncture is pure superstition; to others it produces a real anesthetic or curative effect. Which view is correct?
 
@@ -5325,850 +5113,3 @@ CHAPTER 19 Persuading Others 223 contracted the disease. Dentists and doctors ha
 39. The term tenure means ※permanent appointment.§ Once teachers receive tenure, they can be fired only for serious cause. Tenure originally was designed to ensure that teachers would enjoy the right to teach their subject without fear of punishment for having unpopular views or taking an unorthodox approach to their subject. This right is known as ※academic freedom.§ Over the past few decades, the tenure system has become controversial. Those who oppose it claim that its principal feature today is no longer the guarantee of academic freedom but, instead, protection of the mediocre and the incompetent. Those who support tenure argue that the need for academic freedom has never been greater and that, far from diminishing the quality of education, tenure increases it. Does the tenure system help or hinder the process of education?
 
 40. Some people believe that English should be declared the official language of the United States. They believe that this would encourage assimilation, foster understanding among citizens, increase citizens＊ participation in democratic processes, and save resources in education and in government. Opponents of the idea argue that one＊s native language is a defining characteristic of a person＊s individuality and therefore that linguistic diversity should be encouraged. In their view, declaring English the official language of the United States would be an insult to everyone who speaks another language and a source of disharmony among U.S. citizens of different backgrounds. Should English be declared the official language of the United States?
-
-
-Notes
-
-CHAPTER 1: WHO ARE YOU?
-
-1. This section is copyright ? 2010 by MindPower, Inc. Used with permission.
-
-2. Peggy Rosenthal offers a slightly different explanation of the same phenomenon: ※Even when we think we are choosing our words with care and giving them precise meanings, they can mean much more (or less) than we think; and when we use them carelessly, without thinking, they can still carry thoughts. These thoughts we＊re not aware of, these meanings we don＊t intend, can then carry us into certain beliefs and behavior〞whether or not we notice where we＊re going.§ Rosenthal, Words and Values: Some Leading Words and Where They Lead Us (New York: Oxford University Press, 1984), viii.
-
-3. One example of non sequitur is a child＊s answer to his teacher＊s question ※Why do you get so dirty during playtime?§ He responded, ※Because I＊m closer to the ground than you are.§ Another is the conclusion of a medical authority in 1622 about the treatment of a wound: ※If the wound is large, the weapon [emphasis added] with which the patient has been wounded should be anointed daily; otherwise, every two or three days.§ The medical quotation is from Christopher Cerf and Victor Navasky, The Experts Speak: The Definitive Compendium of Authoritative Misinformation (New York: Villard, 1998), p. 38. 
-
-4. See Buck v. Bell, 1927.
-
-5. Stephen Jay Gould, The Mismeasure of Man (New York: W. W. Norton, 1981), p. 335.
-
-6. Michael D＊Antonio, The State Boys Rebellion (New York: Simon & Schuster, 2004), pp. 5, 18.
-
-7. James M. Henslin, Sociology: A Down-to-Earth Approach, 7th ed. (New York: Pearson, 2005), pp. 87, 302.
-
-8. Henslin, Sociology, p. 401.
-
-9. Daniel Goleman, Vital Lies, Simple Truths (New York: Simon & Schuster, 1985), p. 209.
-
-10. Henslin, Sociology, pp. 5, 56.
-
-11. Quoted in David G. Myers, Social Psychology, 4th ed. (New York: McGraw-Hill, 1993), pp. 186每87.
-
-12. Cited in James Fallows, Breaking the News: How the Media Undermine American Democracy
-
-(New York: Pantheon Books, 1996), pp. 117每18.
-
-13. Cole Campbell, editor of the Norfolk Virginian-Pilot, quoted in Fallows, Breaking the News, p. 246.
-
-14. Ellen Hume, commentator, on Reliable Sources, CNN, June 22, 1999.
-
-15. Larry Sabato, appearing on 60 Minutes, CBS, July 4, 1999.
-
-224
-
-NOTES 225 16. Diane F. DiClemente and Donald A. Hantula, ※John Broadus Watson, I-O Psychologist,§
-
-Society for Industrial and Organizational Psychology, http://siop.org/tip/backissues/
-
-TipApril00/Diclemente.htm.
-
-17. Cited in Richard Nisbett and Lee Ross, First Impressions. Human Inference: Strategies and Shortcomings of Social Judgment (Englewood Cliffs, N.J.: Prentice-Hall, 1980), p. 173.
-
-18. See, for example, Elizabeth F. Loftus, Eyewitness Testimony (Cambridge, Mass.: Harvard University Press, 1979, 1996).
-
-19. Mortimer J. Adler and Charles Van Doren, How to Read a Book, rev. ed. (New York:
-
-Simon & Schuster, 1972), p. 4.
-
-20. Harry A. Overstreet, The Mature Mind (New York: Norton, 1949, 1959), p. 136.
-
-21. Maxwell Maltz, Psycho-Cybernetics (New York: Pocket Books, 1969), pp. 49每53.
-
-22. Martin E. A. Seligman, Learned Optimism: How to Change Your Mind and Life, 2d ed.
-
-New York: Free Press, 1990, 1998), p. 288.
-
-23. Viktor Frankl, The Unheard Cry for Meaning (New York: Simon & Schuster, 1978), pp. 35, 67, 83.
-
-24. Viktor Frankl, Man＊s Search for Meaning (New York: Washington Square Press, 1963), 
-
-pp. 122每23.
-
-25. Frankl, Unheard Cry, pp. 39, 90, 95.
-
-CHAPTER 2: WHAT IS CRITICAL THINKING?
-
-1. Chester I. Barnard, The Function of the Executive (Cambridge, Mass.: Harvard University Press, 1938), p. 303.
-
-2. James Harvey Robinson, in Charles P. Curtis Jr. and Ferris Greenslet, eds., The Practical Cogitator, or the Thinker＊s Anthology (Boston: Houghton Mifflin, 1945), p. 6.
-
-3. Leonard Woolf, quoted in Rowland W. Jepson, Clear Thinking, 5th ed. (New York:
-
-Longman, Green, 1967 [1936]), p. 10.
-
-4. Percey W. Bridgman, The Intelligent Individual and Society (New York: Macmillan, 1938), p. 182.
-
-5. For a remarkably clear discussion of this complex subject, see Mortimer J. Adler,
-
-Intellect: Mind over Matter (New York: Macmillan, 1990).
-
-6. William Barrett, Death of the Soul from Descartes to the Computer (Garden City, N.Y.:
-
-Doubleday, 1986), pp. 10, 53, 75.
-
-7. John Dewey, How We Think (New York: Heath, 1933), p. 4.
-
-8. Dewey, How We Think, pp. 88每90.
-
-9. R. W. Gerard, ※The Biological Basis of Imagination,§ Scientific Monthly, June 1946, p. 477.
-
-10. Gerard, ※Biological Basis,§ p. 478.
-
-11. Copyright ? 2002 by MindPower, Inc. Used with permission.
-
-12. Copyright ? 2002 by MindPower, Inc. Used with permission.
-
-CHAPTER 3: WHAT IS TRUTH?
-
-1. Walter Lippmann, Public Opinion (New York: Harcourt Brace, 1922), p. 90.
-
-2. Gordon W. Allport and Leo Postman, The Psychology of Rumor (New York: Russell &
-
-Russell, 1965 [1947]), p. 100.
-
-3. Quoted in Francis L. Wellman, The Art of Cross-Examination (New York: Collier Books, 1962), p. 175.
-
-4. Elizabeth Loftus and Katherine Ketcham, Witness for the Defense (New York: St. Martin＊s Press, 1991), p. 137.
-
-5. Time, August 14, 1972, p. 52.
-
-6. ※Chaplin Film Is Discovered,§ Binghamton (New York) Press, September 8, 1982, p. 7A.
-
-
-7. ※Town＊s Terror Frozen in Time,§ New York Times, November 21, 1982, sec. 4, p. 7.
-
-8. ※A Tenth Planet?§ Time, May 8, 1972, p. 46.
-
-9. Herrman L. Blumgart, ※The Medical Framework for Viewing the Problem of Human Experimentation,§ Daedalus, Spring 1969, p. 254.
-
-10. This section copyright ? MindPower, Inc., 2008, 2010. Used with permission.
-
-11. Cited in Robert H. Bork, Slouching Towards Gomorrah (New York: ReganBooks, 1996), p. 144.
-
-12. ※Back to School,§ New York Times, March 11, 1973, sec. 4, p. 4.
-
-13. ※The Murky Time,§ Time, January 1, 1973, p. 57ff.
-
-CHAPTER 4: WHAT DOES IT MEAN TO KNOW?
-
-1. Barbara Risman, ※Intimate Relationships from a Microstructural Perspective: Men Who Mother,§ Gender and Society 1(1), 1987, pp. 6每32.
-
-2. S. Minerbrook, ※The Forgotten Pioneers,§ U.S. News & World Report, August 8, 1994, p. 53.
-
-3. Carol Tavris, Anger: The Misunderstood Emotion (New York: Simon & Schuster, 1982), p. 144.
-
-4. Paul F. Boller Jr., Not So: Popular Myths About America from Columbus to Clinton (New York: Oxford University Press, 1995), chap. 5.
-
-5. Boller, Not So, chap. 2.
-
-6. Judith A. Reisman and Edward W. Eichel, Kinsey, Sex, and Fraud (Lafayette, La.:
-
-Huntington House, 1990).
-
-7. Thomas Sowell, Race and Culture: A World View (New York: Basic Books, 1994), pp. 92每93.
-
-8. Sowell, Race and Culture, chap. 7.
-
-9. A. E. Mander, Logic for the Millions (New York: Philosophical Library, 1947), pp. 40每41.
-
-10. Rowland W. Jepson, Clear Thinking, 5th ed. (New York: Longman, Green, 1967), p. 123.
-
-11. Karl-Erick Fichtelius and Sverre Sjolander, Smarter Than Man? Intelligence in Whales,
-
-Dolphins and Humans, trans. Thomas Teal (New York: Random House, 1972), p. 147.
-
-12. Karl Menninger, Whatever Became of Sin? (New York: Hawthorne Books, 1973).
-
-13. Thomas Fleming, ※Who Really Discovered America?§ Reader＊s Digest, March 1973, p. 145ff.
-
-14. ※Scientists Say Chinese ＆Discovered＊ America,§ (Oneonta, New York) Star, October 31, 1981, p. 2.
-
-15. ※Shibboleth Bites Dust,§ Intellectual Digest, July 1973, p. 68.
-
-16. ※Empty Nests,§ Intellectual Digest, July 1973, p. 68.
-
-17. ※Psychic Senility,§ Intellectual Digest, May 1973, p. 68.
-
-18. Time, August 20, 1973, p. 67.
-
-19. Nova, PBS-TV, September 21, 1993.
-
-20. Mortimer J. Adler, ※A Philosopher＊s Religious Faith,§ in Philosophers Who Believe: The Spiritual Journeys of Eleven Leading Thinkers, ed. Kelly James Clark (Downers Grove, Ill.:
-
-InterVarsity Press, 1993), p. 215.
-
-21. Mark A. Noll, The Scandal of the Evangelical Mind (Grand Rapids, Mich.: Eerdmans, 1994), p. 238.
-
-22. Herbert Kupferberg, ※Why Scientists Prowl the Sea Floor,§ Parade, July 29, 1973, p. 12ff.
-
-23. ※Beer Test,§ Parade, May 13, 1973, p. 4.
-
-24. Bernard Goldberg, Bias: A CBS Insider Exposes How the Media Distort the News
-
-(Washington, D.C.: Regnery, 2002), p. 20.
-
-25. http://www.cbsnews.com/stories/2006/02/16/60minutes/main1323169.shtml, accessed August 9, 2006.
-
-26. http://www.opinionjournal.com/extra/?id=110008220, accessed July 11, 2006.
-
-
-NOTES 227
-
-CHAPTER 5: HOW GOOD ARE YOUR OPINIONS?
-
-1. Cited in Martin Gardner, Fads and Fallacies in the Name of Science (New York: Dover, 1952, 1957), pp. 12每13.
-
-2. ※Couple Awaits Resurrection of Their Son,§ Binghamton (New York) Press, August 27, 1973, p. 11A. Also ※Two Arrested in Son＊s ＆Faith Heal＊ Death,§ Binghamton (New York)
-
-Press, August 30, 1973, p. 8A.
-
-3. 20/20, ABC News, July 22, 1982.
-
-4. ※Aid for Aching Heads,§ Time, June 5, 1972, p. 51.
-
-5. Francis D. Moore, ※Therapeutic Innovation: Ethical Boundaries . . . ,§ Daedalus, Spring 1969, pp. 504每5.
-
-6. Adolescence: Its Psychology and Its Relations to Physiology, Anthropology, Sociology, Sex,
-
-Crime, Religion, and Education, vols. 1 and 2 (New York: Appleton, 1904).
-
-7. ※Egyptian Artifacts Termed Fakes,§ (Oneonta, New York) Star, June 16, 1982, 
-
-p. 2.
-
-8. ※Venus Is Pockmarked,§ Binghamton (New York) Press, August 5, 1973, p. 2A.
-
-9. Cited in Carol Tavris, The Mismeasure of Woman (New York: Simon & Schuster, 1992), p. 199.
-
-10. Nation/World section, Tampa Tribune, May 2, 1999, p. 24.
-
-11. Consumer Reports on Health, August 1999, p. 1.
-
-12. Stanton Samenow, Inside the Criminal Mind (New York: Times Books, 1984).
-
-13. John Locke, The Conduct of the Understanding, part 3.
-
-14. ※Hashaholics,§ Time, July 24, 1972, p. 53.
-
-15. Walter Sullivan, ※New Object Seen on Universe Edge,§ New York Times, June 10, 1973, p. 76.
-
-16. Karl-Erick Fichtelius and Sverre Sjolander, Smarter Than Man? Intelligence in Whales,
-
-Dolphins and Humans, trans. Thomas Teal (New York: Random House, 1972), pp. 135每36.
-
-17. Ray Marshall and Marc Tucker, Thinking for a Living: Education and the Wealth of Nations
-
-(New York: Basic Books, 1992), pp. 17每20.
-
-18. Bill Katz and Linda Sternberg Katz, Magazines for Libraries (New York: Bowker, 1992).
-
-19. A Current Affair, Fox TV, April 28, 1989.
-
-20. ※Bars＊ Ladies＊ Nights Called Reverse Sexism,§ Binghamton (New York) Press, January 12, 1983, p. 5B.
-
-CHAPTER 6: WHAT IS EVIDENCE?
-
-1. Joel Best, Damned Lies and Statistics: Untangling Numbers from the Media, Politicians and Activists (Berkeley: University of California Press, 2001), pp. 27每28, 159, 161.
-
-2. Best, Damned Lies and Statistics, pp. 46每48.
-
-3. Victor C. Strasburger, Adolescents and the Media: Medical and Psychological Impact
-
-(Thousand Oaks, Calif.: Sage Publishing, 1995), p. 30.
-
-4. W. I. B. Beveridge, The Art of Scientific Investigation (New York: W. W. Norton, 1951), p. 54.
-
-5. Best, Damned Lies and Statistics, p. 35.
-
-6. Thomas Sowell, ※Ignoring Economics,§ http://www.realclearpolitics.com/
-
-Commentary/com-11_15_05_TS_pf.html, accessed July 8, 2006.
-
-CHAPTER 7: WHAT IS ARGUMENT?
-
-1. Margaret A. Hagen, Whores of the Court: The Fraud of Psychiatric Testimony and the Rape of American Justice (New York: HarperCollins, 1997), p. 292.
-
-
-CHAPTER 8: THE BASIC PROBLEM: ※MINE IS BETTER§
-
-1. Edwin Arthur Burtt, Right Thinking: A Study of Its Principles and Methods, 3d ed. (New York: Harper & Brothers, 1946), p. 63.
-
-2. Ambrose Bierce, Devil＊s Dictionary (New York: Dover, 1958), p. 66.
-
-3. Cited in Thomas Gilovich, How We Know What Isn＊t So: The Fallibility of Human Reason in Everyday Life (New York: Free Press, 1991), p. 77.
-
-4. Edmond G. Addeo and Robert E. Burger, EgoSpeak: Why No One Listens to You (Radnor,
-
-Pa.: Chilton, 1973).
-
-5. Gordon Allport, The Nature of Prejudice (Reading, Mass.: Addison-Wesley, 1954), pp. 355每56.
-
-6. G. K. Chesterton, Charles Dickens (New York: Press of the Readers Club, 1942), p. 15.
-
-7. ※Theologian: U.S. Too Tolerant,§ (Oneonta, New York) Star, May 30, 1981, p. 15.
-
-8. ※Jailed Rabbi Seeks Kosher Diet,§ Binghamton (New York) Press, May 23, 1982, p. 5A.
-
-9. Reported on Good Morning, America, ABC News, November 4, 1982.
-
-10. ※Pregnant Teacher Stirs Town,§ Binghamton (New York) Press, December 22, 1982, p. 1A.
-
-CHAPTER 9: ERRORS OF PERSPECTIVE
-
-1. H. L. Gee, Five Hundred Tales to Tell Again (New York: Roy Publishers/Epworth Press, 1955), p. 56.
-
-2. David Hackett Fischer, Historians＊ Fallacies: Toward a Logic of Historical Thought (New York: HarperPerennial, 1970), pp. 9每10.
-
-3. Solomon Asch, cited in Carole Wade and Carol Tavris, Psychology, 2d ed. (New York:
-
-HarperCollins, 1990), p. 669.
-
-4. Nat Hentoff, Speaking Freely: A Memoir (New York: Alfred A. Knopf, 1998).
-
-5. Reported on Hannity & Colmes, Fox News Network, April 3, 2006.
-
-6. Reported in George Will, Suddenly (New York: Free Press, 1992), p. 405.
-
-7. Thomas A. Harris, I＊m OK〞You＊re OK: A Practical Guide to Transactional Analysis (New York: Harper & Row, 1969), pp. 22每23.
-
-8. ※Anna Freud, Psychoanalyst, Dies at 86,§ New York Times, October 10, 1982, p. 46.
-
-9. Rona and Laurence Cherry, ※The Horney Heresy,§ New York Times Magazine, August 26, 1973, p. 12ff.
-
-10. ※Liberation Lawn,§ New York Times, May 23, 1982, sec. 4, p. 11.
-
-11. This approach was used in the 1982 California primary and reported in ※Game Show Prizes Entice CA Voters,§ (Oneonta, New York) Star, June 4, 1982, p. 1.
-
-12. This idea was tested by an education researcher, Eileen Bayer. It proved successful.
-
-Fred M. Hechinger, ※Grandpa Goes to Kindergarten,§ New York Times, October 29, 1972, sec. 4, p. 11.
-
-13. The Reagan administration discussed this plan and indicated it was not opposed to it.
-
-※U.S. Considering National ID Cards,§ (Oneonta, New York) Star, May 21, 1982, p. 1.
-
-14. Harry Atkins, ※Football, Hockey Are X-Rated,§ Binghamton (New York) Press, December 19, 1982, p. 60.
-
-CHAPTER 10: ERRORS OF PROCEDURE
-
-1. Thomas Gilovich, How We Know What Isn＊t So: The Fallibility of Reason in Everyday Life
-
-(New York: Free Press, 1991).
-
-2. Larry Elder, The Ten Things You Can＊t Say in America (New York: St. Martin＊s Press, 2000), pp. 24, 44.
-
-3. John McWhorter, Losing the Race: Self-Sabotage in Black America (New York: Free Press, 2000).
-
-
-NOTES 229 4. Jesse Lee Peterson, Scam: How the Black Leadership Exploits Black America (Nashville:
-
-WND Books, 2003), pp. 1每2.
-
-5. Shelby Steele, White Guilt: How Blacks and Whites Together Destroyed the Promise of the Civil Rights Era (New York: HarperCollins, 2006).
-
-6. Juan Williams, Enough (Crown Publishing, 2006).
-
-7. Thomas Sowell, Race and Culture: A World View (New York: Basic Books, 1992).
-
-8. ※FAA＊s Regulations Ruffle Feathers of Hang Gliders,§ Binghamton (New York) Press,
-
-September 3, 1982, p. 1A.
-
-9. Ken Hamblin, Plain Talk and Common Sense from the Black Avenger (New York: Simon &
-
-Schuster, 1999), p. 34.
-
-10. ※Long Sentences Sought for Repeat Offenders,§ New York Times, April 25, 1982, p. 63.
-
-11. ※Possessed Teen Gets Long Prison Term,§ (Oneonta, New York) Star, December 19, 1981, p. 2.
-
-12. ※Woman Convicted of Making Ethnic Slur,§ (Oneonta, New York) Star, May 14, 1982, p. 2.
-
-13. ※High School Class Uses Human Cadavers in Lab,§ Binghamton (New York) Press,
-
-December 15, 1982, p. 2C.
-
-CHAPTER 11: ERRORS OF EXPRESSION
-
-1. Thomas Sowell, The Quest for Cosmic Justice (New York: Free Press, 1999), p. 18.
-
-2. Quoted in Christopher Cerf and Victor Navasky, The Experts Speak: The Definitive Compendium of Authoritative Misinformation (New York: Villard, 1998).
-
-3. Cerf and Navasky, The Experts Speak.
-
-4. Henry B. Veatch, Rational Man: A Modern Interpretation of Aristotelian Ethics
-
-(Bloomington: Indiana University Press, 1962), p. 43.
-
-5. Karla Valance, ※This Time, the Rebel＊s on the Right,§ Christian Science Monitor, January 27, 1983, p. 1B; George Basler, ※Student Paper Urges Theft and Graffiti,§ Binghamton
-
-(New York) Press, January 25, 1983, p. 1F.
-
-6. ※Witch＊s Church Tax Free,§ (Oneonta, New York) Star, April 8, 1982, p. 17.
-
-CHAPTER 12: ERRORS OF REACTION
-
-1. Rowland W. Jepson, Clear Thinking, 5th ed. (New York: Longman, Green, 1967 [1936]), p. 81.
-
-2. Harold Kolansky, M.D., and William T. Moore, M.D., ※Toxic Effects of Chronic Marijuana Use,§ Journal of the American Medical Association, October 2, 1972, pp. 35每41.
-
-3. David G. Myers, Social Psychology, 4th ed. (New York: McGraw-Hill, 1993), p. 148.
-
-4. ※Bar License Church Veto Struck Down,§ Binghamton (New York) Press, December 14, 1982, p. 4A.
-
-CHAPTER 13: THE ERRORS IN COMBINATION
-
-1. David G. Myers, Intuition: Its Powers and Perils (New Haven, Conn.: Yale University Press, 2002), p. 101.
-
-2. H. L. Gee, Five Hundred Tales to Tell Again (New York: Roy Publishers/Epworth Press, 1955).
-
-3. Cited in Robyn M. Dawes, House of Cards: Psychology and Psychotherapy Built on Myth
-
-(New York: Free Press, 1994), p. 209.
-
-4. George Will, Suddenly (New York: Free Press, 1992), p. 89. Will cites Norman MacRae as his source.
-
-
-5. ※An Exercise in Educational Flimflam,§ Parade, May 12, 1974, p. 17.
-
-6. ※Court Order Blocks Big Inmate Release,§ (Oneonta, New York) Star, December 22, 1981, p. 12.
-
-7. ※Ruling Strikes Down Exempt Status,§ (Oneonta, New York) Star, March 27, 1982, 
-
-p. 1.
-
-8. ※State Rules Let Gays and Crooks Adopt Children,§ Binghamton (New York) Press,
-
-August 8, 1982, p. 1A.
-
-9. ※Ex-Policeman Says Sex Shift Cost His Job,§ (Schenectady, New York) Gazette, August 28, 1982, p. 14.
-
-CHAPTER 14: KNOWING YOURSELF
-
-1. Albert Ellis and Robert A. Harper, A Guide to Rational Living (Englewood Cliffs, N.J.:
-
-Prentice-Hall, 1975).
-
-2. Reported in First Things, December 1996, p. 58.
-
-3. Burden of Proof, CNN, February 24, 1997.
-
-4. ※Bill Limits Link Between Tobacco and Sports,§ Nation/World section, Tampa Tribune,
-
-February 23, 1997, p. 14.
-
-5. Reported on The Today Show, NBC TV, August 26, 1996.
-
-6. ※Questioning Campus Discipline,§ Time, May 31, 1982, p. 68.
-
-7. ※Holiday Songs Haunt Schoolmen,§ Binghamton (New York) Press, December 16, 1982, p. 3A.
-
-8. ※Elizabeth Taylor vs. Tailored Truth,§ Time, November 8, 1982, p. 71.
-
-9. Interview with Shirley MacLaine, USA Today, June 16, 1983, p. 11A.
-
-CHAPTER 15: BEING OBSERVANT
-
-1. Lawrence K. Altman, ※Discovery 60 Years Ago Changed Doctors＊ Minds on Heart Attack Survival,§ New York Times, December 10, 1972, pp. 56每57.
-
-2. Earl Ubell, ※Lysozyme: One of the Body＊s Miracle Workers,§ New York Times, November 12, 1972, sec. 4, p. 6.
-
-3. ※Attacking Disease,§ dialogue between Jacques Monod and Jean Hamburger,
-
-Intellectual Digest, May 1974, pp. 12每14.
-
-4. Richard P. Feynman, ※Surely You＊re Joking, Mr. Feynman§ (New York: Bantam Books, 1985), esp. pp. 157每58.
-
-5. Binghamton (New York) Press, March 22, 1989, p. 1A.
-
-CHAPTER 16: SELECTING AN ISSUE
-
-1. ※Tragedy May Haunt Mancini,§ Binghamton (New York) Press, November 16, 1982, 
-
-p. 4D.
-
-CHAPTER 17: CONDUCTING INQUIRY
-
-1. Lee Edson, ※Will Man Ever Live in Space?§ New York Times Magazine, December 31, 1972, p. 10ff.
-
-2. Gordon Gaskill, ※Which Mountain Did Moses Really Climb?§ Reader＊s Digest, June 1973, pp. 209每16.
-
-3. Lucy Burchard, ※The Snug Way,§ Intellectual Digest, February 1974, p. 67.
-
-
-NOTES 231
-
-CHAPTER 18: FORMING A JUDGMENT
-
-1. ※The 2000-Year-Old Woman,§ Time, September 17, 1973, pp. 55每56.
-
-2. Joyce Brothers, ※Answers to Your Questions,§ Good Housekeeping, November 1993, p. 100.
-
-3. John Leo, ※In Search of the Middle Ground,§ U.S. News & World Report, March 6, 1989, p. 30.
-
-4. Quoted in Leo, ※In Search of the Middle Ground,§ p. 30.
-
-5. Barbara Lerner, ※Self-Esteem and Excellence: The Choice and the Paradox,§ American Educator, Winter 1985.
-
-CHAPTER 19: PERSUADING OTHERS
-
-1. ※Scientist Clones Lamb from an Adult Sheep,§ Nation/World section, Tampa Tribune,
-
-February 23, 1997, p. 14.
-
-2. William F. Buckley Jr., Firing Line, PBS affiliate WEDU, Tampa, Fla., July 7, 1996.
-
-rug38189_Notes_224-232.qxd 1/3/11 5:05 PM Page 231 rug38189_Notes_224-232.qxd 1/3/11 5:05 PM Page 232 233 abortion, 104, 138 absolutism, 108, 145 abstracting services, 182
-
-Adams, Scott, 80每81
-
-Addeo, Edmond, 95
-
-Adler, Mortimer J., 29, 54, 161, 167 advertising, 7每8, 9每10, 75, 128每129 agreement, argument and, 208每209
-
-Alexander, Jane, 187
-
-Allport, Gordon, 96每97 almanacs, 180
-
-Ambrose, Stephen, 28 arguing in a circle, 127每128, 148 argument(s), 83每92 consolidating, 190每191 defining, 83每84 evaluating, 85每90, 194每198 parts of, 84每85 persuasive, guidelines for, 209每215 articles, 181, 190每191
-
-Asch, Solomon, 10 assertions, 186每187 assumptions, 55每56, 104每106, 145, 152 attacking the critic, 140每141, 150 authority, 129, 131, 148每149 automatic rejection, 137每138, 149 background information, 180 balanced view, 200每201
-
-Barrett, William, 18
-
-Beausay, Bill, 113 behaviorism, 9每10 belief(s), 6, 6n, 37, 132, 148每149
-
-Best, Joel, 77 bias ethnocentrists and, 96 evidence and, 79每80, 115每117, 146 for/against change, 109每111, 146 bibliographic guides, 182
-
-Biden, Joseph, 27每28
-
-Bierce, Ambrose, 11, 95
-
-Billings, Josh, 57 biographical dictionaries, 180
-
-Blair, Jason, 28 blame, 97 body language, 164每165 books, 181每182, 190每191 boxing, 174, 189
-
-Boylston, Zabdiel, 63
-
-Brady, Joseph L., 37 brain, 17每18, 52
-
-Brigham, Carl, 118n
-
-Brothers, Joyce, 196每198
-
-Bruce, Robert, 28
-
-Burger, Robert, 95
-
-Burns, Robert, 158
-
-Bush, George W., 87
-
-Carville, James, 9 causation/cause-and-effect, 38每43 celebrity testimony, 75, 193每194 certainty, 80, 188, 201
-
-Chabel, Marks, 27 change, bias for/against, 109每111, 146 changing the subject, 138每139, 149
-
-Chesterton, G. K., 98
-
-Clinton, William Jefferson, 72, 72n, 140
-
-Coleridge, Samuel Taylor, 23 common belief, 132, 148每149
-
-Comte, Auguste, 44 conceding points, 211每212 conclusions of arguments, 84每85, 86每87, 88每90 hasty, 117每118, 146每147, 152 conformity, 107每108, 145 consequences, 62 consolidating arguments, 190每191 contradiction, 126每127, 147每148
-
-Corell, Bob, 58
-
-Cosby, Bill, 116 crime, juvenile, 174每175, 189 critical thinking, 16每31. See also thinking/thought basic activities in, 24 characteristics, 20每22 defined, 19 discussion and, 25每27 intuition and, 22每23
-
-Index 
-mind and brain and, 17每18 plagiarism and, 27每29 self-inventory, 159每160 writing and, 24每25 critical thinking mode, 67 databases, 182 daydreaming, 19n de Fort, Charles Silvester, 59
-
-Dean Witter, 128
-
-Delgado, Jos谷, 221
-
-Deming, Edwards, 7
-
-Dewey, John, 21, 22 dictionaries, 95, 180 discussion guidelines, 25每27 distinctions, 198每199
-
-Dix, Dorothea, 167 double standard, 117, 146
-
-Draper, Patricia, 188
-
-Duncker, Karl, 102每103 egocentrists, 95每96 egospeak, 95 egothink, 96 egotism, 26
-
-Eichel, Edward W., 49 either/or outlook, 106, 145, 151
-
-Elder, Larry, 116
-
-Elizaldo, Manuel, 53
-
-Ellis, Albert, 161 emotion, appeals to, 130每131, 148每149 encyclopedias, 180
-
-English language resources, 180
-
-Epictetus, 56 errors, 36每37, 65. See also specific error in combination, 144, 150每152 of expression, 126每134, 147每149 of logic, 85 of perspective, 102每114, 144每146 of procedure, 115每125, 146每147 of reaction, 135每143, 149每150
-
-Esposito, John, 201 ethnocentrists, 96每97 evaluating arguments, 85每90, 194每198 bias and, 79每80 critical thinking and, 19 evidence, 73每80, 193每194 self, 48每50, 158每160 sources, 185每187, 194每198 evidence, 72每82 bias and, 79每80, 115每117, 146 evaluating, 79每80, 193每194 kinds of, 73每79 sufficiency of, determining, 80, 187每190 exaggeration, 203每204 experience, 73每74, 179, 193 experiments, 76, 194 experts, 36, 63每64, 76, 194 expressing judgments, 199每204 expression, errors of, 126每134 arguing in a circle, 127每128, 148 contradiction, 126每127, 147每148 false analogy, 129每130, 148 irrational appeals, 130每132, 148每149 meaningless statement, 128每129, 148 mistaken authority, 129, 148 recognizing and dealing with, 147每149 extravagant assertions, 186 eyewitness testimony, 74每75, 193 face-saving, 135每136, 150, 151, 152 facts, 68, 178, 180, 185, 212每213 faith, 54每55 false analogy, 129每130, 148 feeling(s), 18每19, 98, 130每131
-
-Feynman, Richard, 166每167 field experiments, 76, 194
-
-Fischer, David Hackett, 106
-
-Fleming, Alexander, 166 formal observations, 78, 194
-
-Frankl, Viktor, 12每13, 14, 167
-
-Franklin, Benjamin, 63 free will, 40每41, 43
-
-Freud, Anna, 161
-
-Freud, Sigmund, 110每111, 161, 167
-
-Frost, Robert, 110
-
-Galileo, 36, 109
-
-Gates, Bill, 185 generalizing, 118每119, 119n, 120
-
-Gilbreth, Frank and Lillian, 167
-
-Gilovich, Thomas, 115
-
-Glover, Ian, 53
-
-Goethe, Johann Wolfgang, 23
-
-Goldberg, Bernard, 56
-
-Goleman, Daniel, 5
-
-Gomberg, Edith, 64
-
-Gonzalez, Eli芍n, 134
-
-Goodwin, Doris Kearns, 28
-
-Google, 183, 184
-
-Gould, Steven J., 118n groups, 36每37, 119, 199 guessing, 55每56 habits, 41, 110
-
-Hall, G. Stanley, 63
-
-Harris, Sidney J., 158 hasty conclusions, 117每118, 
-
-146每147, 152
-
-Headland, Thomas, 54
-
-Heiss, Jerold, 52 
-INDEX 235
-
-Henry, Carl F., 99每100
-
-Henslin, James, 5
-
-Hentoff, Nat, 107
-
-Herrick, James B., 165 hidden premises, 89每90 hoaxes, 53每54, 185
-
-Holmes, Oliver Wendell, 7
-
-Horney, Karen, 111
-
-Humphrey, Nyles, 53 ideals, 62 ideas, 6每7, 24每25, 27, 198每199 inconclusive results, 178每179 indexes, 181, 182 individuality, 4每15 acquiring/earning, 13 ideas and, 6每7 manipulation and, 8, 9每10 mass culture and, 7每9 psychology and, 11每13 time and place and, 4每5 information deficiency, 35每36 information sources, 179每187 consolidating arguments from, 
-
-190每191 evaluating, 194每198 experience and observation as, 179 plagiarism and, 27每29 types of, 180每182
-
-Web-based. See Internet informed opinion, 65每67, 178
-
-InfoTrak, 182 inquiry(ies), 178每191 efficiency in, 187 inconclusive results and, 178每179 information sources, 179每187
-
-Internet strategies, 183每187 lengthy material in, managing, 190每191 sufficiency of evidence in, 80, 187每190 types of, 178 intellectual property, 27 intelligence tests, 6每7, 118, 118n
-
-Internet, 182每187 accessing sites, 183 evaluating sources/sites, 185每187 plagiarism and, 28 search engines, 183每184 sites by topic, 184每185 interpretation, 24 intuition, 22每23 investigation, 24 irrational appeals, 130每132, 148每149 issues, 171每177 less is more rule and, 171每172 limiting focus of, 172, 176 sample issues, 173每175
-
-James, William, 35
-
-Jepson, Rowland W., 135
-
-John Paul II (pope), 100
-
-Johnson, Samuel, 6
-
-Jones, Paula, 140 journal articles, 181, 190每191 judgment(s), 24, 192每205 distinctions and, 198每199 evidence and, 193每194 expressing, 199每204 sources＊ arguments and, 194每198 truth and group judgment, 36每37 juvenile crime, 174每175, 189
-
-Katz, Bill and Linda Sternberg, 68
-
-Kekule, Friedrich August, 22每23
-
-Kennedy, Robert, 27
-
-Khomeini, Ayatollah, 200
-
-Kim, Duk Doo, 174
-
-Kinnock, Neil, 27
-
-Kinsey, Alfred, 48, 49 knowing/knowledge, 47每58 achieving, 50每51 difficulty of knowing, 51每53 faith and, 54每55 obstacles to, 55每56 requirements for, 47每48 self-knowledge, 158每161 self-test, 48每50
-
-Tasaday cautionary tale, 53每54
-
-Koch, Robert, 63
-
-Koo, Wellington, 153
-
-!Kung bushmen, 188
-
-Kwolek, Stephanie, 167 laboratory experiments, 76, 194
-
-Lanegran, Kimberly, 27
-
-Leibnitz, G. W., 18 lengthy material, 190每191
-
-LensCrafters, 128
-
-Leo, John, 200每201
-
-Lerner, Barbara, 201 less is more rule, 171每172
-
-Lewis, Sinclair, 105
-
-Lindzen, Richard, 58 listening, 26, 164每165
-
-Locke, John, 18, 65
-
-Loftus, Elizabeth, 35 logic, 84每85
-
-Lombardi, Vince, 170
-
-Mackay, James A., 28
-
-MacLaine, Shirley, 163 magazine articles, 181
-
-Maltz, Maxwell, 11, 12
-
-Mancini, Ray, 174 
-manipulation, 8, 9每10
-
-Marshall, Barry, 64
-
-Marshall, Ray, 67
-
-Marx, Karl, 44
-
-Maslow, Abraham, 12, 14, 49 mass culture, 7每9
-
-McDonagh, Sean, 53
-
-McWhorter, John, 116 meaningless statement, 128每129, 148 media. See also advertising celebrity testimony, 75, 193每194 discussion and, 25 evaluating information from, 185 individuality and, 7每9 pornography in, 173 violence and sex in, 41 medicine, 63每64, 165每166, 182, 184每185 memory, 10, 35
-
-Menninger, Karl, 52 mind, 17每18 mindless conformity, 107每108, 145
-
-※mine-is-better§ perspective, 94每101 change and, 110 controlling, 97每98 egocentrists and, 95每96 errors and, 150 ethnocentrists and, 96每97 mistaken authority, 129, 148 mistaken opinions, 61 moderation, appeals to, 131, 148每149
-
-Molony, Carol, 53
-
-Monod, Jacques, 166 moral judgments, 61每63
-
-Morison, Samuel Eliot, 28
-
-Morris, Dick, 140
-
-Muhammad, 200
-
-Myers, David, 141
-
-New York Times, 28 newspaper articles, 181
-
-Noll, Mark, 55
-
-Obama, Barack, 186每187 obligations, 62 observation(s), 164每170 facilitating, 168 formal, 78, 194 as information source, 179 of people, 164每165 range of, 166每167 reflecting on, 168每169 in science and medicine, 165每166 opinion(s), 59每71 argument and, 83 errors in, 36, 63每65 as evidence, 76 expert, 194 forming responsibly, 67每68 informed vs. uninformed, 65每67 inquiry into, 178 mistaken, 61 on moral issues, 61每63 overgeneralizing, 119, 120, 147 oversimplification, 120每121, 147, 151, 152
-
-Overstreet, Harry A., 10
-
-Owens, Susan, 52 paraphrasing, 28, 29
-
-Parrish, Michael, 64
-
-Partridge, Eric, 180 passive learning, 50
-
-Pavlov, Ivan, 9 perception, 34每35 personal agendas, 26 personal attacks, 186 personal experience, 73每74, 179, 193 perspective, errors of, 102每114 absolutism, 108, 145 bias for/against change, 109每111, 146 either/or outlook, 106, 145, 151 mindless conformity, 107每108, 145 poverty of aspect, 102每103, 144每145 recognizing and dealing with, 144每146 relativism, 108每109, 145每146 unwarranted assumptions, 104每106, 145 persuasion, 206每223 defined, 206 guidelines for, 206每215 sample presentations, 215每217
-
-Peterson, Jesse Lee, 116 place, 4每5 plagiarism, 27每29 politicians, 9, 138 pornography, 172每173, 176, 189 positive approach to argument, 209每210 post hoc fallacy, 121每122, 147 poverty of aspect, 102每103, 144每145 predicate usage, 202每203 premises, 84, 85每87, 88每90 print journalism, 9 probability, 201 procedure, errors of, 115每125 biased consideration of evidence, 115每117, 146 double standard, 117, 146 hasty conclusion, 117每118, 146每147, 152 overgeneralizing and stereotyping, 119每120, 119n, 147, 152 oversimplification, 120每121, 
-
-147, 151, 152 post hoc fallacy, 121每122, 147 recognizing and dealing with, 146每147 
-INDEX 237 psychology, 6每7, 11每13, 161 published reports, 74, 193 qualifications, judgments and, 203 questioning, 19每20 arguments, 86每87, 194每198 evidence, 193每194 self-knowledge, 158每160 source reliability, 185每186 quoting sources, 28, 29 rational appeals, 130, 131, 132 reaction, errors of, 135每143 attacking the critic, 140每141, 150 automatic rejection, 137每138, 149 changing the subject, 138每139, 149 recognizing and dealing with, 149每150 shifting the burden of proof, 139, 149 straw man, 139每140, 149
-
-Reader＊s Guide to Periodical Literature, 181, 182 reasoning, argument and, 83, 85 reflecting on observations, 168每169
-
-Regan, Thomas, 134
-
-Reisman, Judith A., 49 relativism, 97每98, 108每109, 145每146 relevant evidence, 78每79 religion, 54每55, 104 reports, 74, 193 research reviews, 78每79, 194 respect for audience, 207
-
-Risman, Barbara, 48
-
-Robertson, Ian, 5
-
-Roe v. Wade, 104
-
-Roget＊s Thesaurus, 17
-
-Roosevelt, Franklin D., 127 rudeness, 27, 119, 119n
-
-Ruhling, Robert, 53 rumors, 185
-
-Rushdie, Salman, 200
-
-Sabato, Larry, 9
-
-Salazar, Zeus, 53
-
-Samenow, Stanton E., 64 sampling techniques, 77
-
-Satanic Verses, The (Rushdie), 200每201 saving face, 135每136, 150, 151, 152
-
-Schweitzer, Albert, 134 science, 9每10, 165每166, 192每193 search engines, 183每184 self-actualization, 12 self-centeredness, 11, 95每96 self-esteem, 11每12, 52, 201 self-image, 11, 135每136 self-knowledge, 158每163 challenge and reward in, 161 critical thinking inventory, 159每160 as information source, 179 questions assessing, 158每160 self-transcendence, 12
-
-Seligman, Martin, 12
-
-Seneca, 141 sex, 41, 110, 172每173, 176, 189, 196每198
-
-Sheehy, Eugene O., 181
-
-Shepherd, Cybill, 129 shifting the burden of proof, 139, 149 simplification, 120
-
-Simpson, O. J. and Nicole Brown, 127
-
-Socrates, 158
-
-Sowell, Thomas, 119每120 specificity, 202 speech mannerisms, 26
-
-Spencer, Herbert, 44
-
-Starr, Kenneth, 72, 72n statistics, 76每77, 180, 194
-
-Steele, Shelby, 116 stereotyping, 119每120, 147, 152
-
-Strasburger, Victor, 78 straw man, 139每140, 149 subject (topic), 138每139, 149, 202 summarizing source arguments, 191 surveys, 77每78, 194
-
-Tasaday people, 53每54
-
-Tate, Marsha Ann, 187
-
-Tavris, Carol, 48每49
-
-Taylor, Elizabeth, 163 television, 7每8, 8n, 25, 41, 75 testimony, 74每75, 193每194 thinking/thought. See also critical thinking brain function and, 18, 52 errors in, 85, 126. See also errors feeling versus, 18每19 judgments and, 192
-
-※mine-is-better§ perspective, 97每98 poverty of aspect, 102每103, 144每145 synonyms for think, 17 time, 4每5, 215 tolerance, appeals to, 132, 148每149 tradition, appeals to, 131, 148每149 truth, 32每46 attitudes toward, 32每33 cause-and-effect and, 38每43 childhood and, 33每34 as discovery, 37每38 errors and, 36每37 information deficiencies and, 35每36 memory and, 35 perception and, 34每35
-
-Tucker, Marc, 67 uncritical default mode, 67, 68 uncritical thinkers, 21每22 understatement, 210每211 Voltaire, 134 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 238 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 239 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 240 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 241 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 242 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 243 rug38189_Ind_233-244.qxd 1/3/11 5:06 PM Page 244
